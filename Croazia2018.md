@@ -58,7 +58,7 @@ Lunedì 20
 </code></pre>
 <h2 id="parco-nazionale-krka-">Parco Nazionale Krka <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462542.6995781155!2d14.632710115597753!3d44.27851461833799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12e1d4d5d0103938!2sParque+nacional+Krka!5e0!3m2!1ses!2sit!4v1527006438560" allowfullscreen="" width="400" height="300"></iframe>
-<p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali. Credo conviene informarsi bene su i percorsi, accessi, ecc.<br>
+<p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali. Credo conviene informarsi bene su i percorsi, accessi, ecc. Avissano che in Agosto è come Punta Prosciuto…<br>
 [<a href="https://en.wikivoyage.org/wiki/Krka_National_Park">+info</a>] [<a href="http://www.np-krka.hr/en/">+info</a>] [<a href="https://www.tripadvisor.es/Attraction_Review-g2569732-d4604847-Reviews-Krka_National_Park-Sibenik_Knin_County_Dalmatia.html">+info</a>]</p>
 <pre><code>Mercoledì 22
 </code></pre>
