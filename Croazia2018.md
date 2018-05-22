@@ -5,7 +5,7 @@ author: Patito
 ---
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
-<h4 id="agenda-proposta">Agenda proposta:</h4>
+<h4 id="agenda-proposta-3-airbnb-isola-krk-zadar-e-trogir">Agenda proposta: (<em>3 airbnb: Isola Krk, Zadar e Trogir</em>)</h4>
 <ul>
 <li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk, forse a Vrbnik, così vediamo una città quella notte.</li>
 <li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (non essendo in weekend forse è meno affollato).</li>
