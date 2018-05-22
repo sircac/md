@@ -38,24 +38,28 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </code></pre>
 <h2 id="parco-nazionale-di-plitvice-">Parco Nazionale di Plitvice <a href="https://www.wikiwand.com/it/Parco_nazionale_dei_laghi_di_Plitvice"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/Yb8zdmySw8T2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860146.2853992726!2d14.597713812494545!3d44.91587361685517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47615e6cfed90f3d%3A0x51a8ff8379a5e70!2sParque+Nacional+de+los+Lagos+de+Plitvice!5e0!3m2!1ses!2sit!4v1527005342666" allowfullscreen="" width="400" height="300"></iframe>
-<p>i laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte…</p>
+<p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte…</p>
 <pre><code>Sabato 18
 </code></pre>
 <h1 id="capitolo-iii-pag-zadar-e-krka">Capitolo III: Pag, Zadar e Krka</h1>
-<h2 id="isola-pag">Isola Pag</h2>
-<p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge.</p>
+<h2 id="isola-pag-">Isola Pag <a href="https://it.wikipedia.org/wiki/Pago_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/DPsAD5TTqyJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1453736.0363833534!2d14.66920600390863!3d44.631208775501285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4762312ac48a1c53%3A0xd0d304bc0cb83143!2sPag!5e0!3m2!1ses!2sit!4v1527005621132" allowfullscreen="" width="400" height="300"></iframe>
+<p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge. [<a href="http://www.zingarate.com/croazia/croazia-agosto-consigli_pag2.html">+info</a>]</p>
 <pre><code>Domenica 19
 
 Lunedì 20
 </code></pre>
-<h2 id="zadar">Zadar</h2>
+<h2 id="zadar-">Zadar <a href="https://es.wikipedia.org/wiki/Zadar"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/15PgfqAMi7F2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1456484.6149568427!2d14.496794824393431!3d44.521369334425906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4761fa62d2c0b88f%3A0x12323e1c13f40784!2sZadar%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006349594" allowfullscreen="" width="400" height="300"></iframe>
 <p>Città storica dal bellissimo centro, con l’organo Marino e il saluto al sole.</p>
-<h3 id="nin">Nin</h3>
+<h4 id="nin">Nin</h4>
 <p>E le saline di Nin</p>
 <pre><code>Martedì 21
 </code></pre>
-<h2 id="parco-nazionale-krka">Parco Nazionale Krka</h2>
-<p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali</p>
+<h2 id="parco-nazionale-krka-">Parco Nazionale Krka <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462542.6995781155!2d14.632710115597753!3d44.27851461833799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12e1d4d5d0103938!2sParque+nacional+Krka!5e0!3m2!1ses!2sit!4v1527006438560" allowfullscreen="" width="400" height="300"></iframe>
+<p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali. Credo conviene informarsi bene su i percorsi, accessi, ecc.<br>
+[<a href="https://en.wikivoyage.org/wiki/Krka_National_Park">+info</a>] [<a href="http://www.np-krka.hr/en/">+info</a>] [<a href="https://www.tripadvisor.es/Attraction_Review-g2569732-d4604847-Reviews-Krka_National_Park-Sibenik_Knin_County_Dalmatia.html">+info</a>]</p>
 <pre><code>Mercoledì 22
 </code></pre>
 <h1 id="capitolo-iv-sibenik-e-trogir">Capitolo IV: Sibenik e Trogir</h1>
