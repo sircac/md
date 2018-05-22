@@ -21,7 +21,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </code></pre>
 <p>A mettà giornata spostarci al próssimo punto</p>
 <h1 id="capitolo-ii-krk-e-plitvice">Capitolo II: Krk e Plitvice</h1>
-<h2 id="isola-krk">Isola Krk</h2>
+<h2 id="isola-krk-">Isola Krk <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1727207.1279186355!2d13.75391214823055!3d44.68443180195998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005021300" allowfullscreen="" width="400" height="300"></iframe>
 <p>Collegata alla terraferma da ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
 <ul>
