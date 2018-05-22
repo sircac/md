@@ -1,11 +1,11 @@
 ---
 title: Croazia 2018
 author: Patito
-featuredImage: 'https://en.wikipedia.org/wiki/Flag_of_Croatia#/media/File:Flag_of_Croatia.svg'
 
 ---
 
 <h1 id="operación-patitos-calentitos"><strong>Operación Patitos Calentitos</strong></h1>
+<p><img src="https://en.wikipedia.org/wiki/Flag_of_Croatia#/media/File:Flag_of_Croatia.svg" alt="Bandera" width="60" height="50"></p>
 <h4 id="mercoledì-15">‘‘Mercoledì 15’’</h4>
 <blockquote>
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
