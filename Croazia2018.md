@@ -6,7 +6,8 @@ author: Patito
 
 <h1 id="operación-patitos-calentitos"><strong>Operación Patitos Calentitos</strong></h1>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="90" height="50"></p>
-<h4 id="mercoledì-15">‘‘Mercoledì 15’’</h4>
+<pre><code>Mercoledì 15
+</code></pre>
 <blockquote>
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
