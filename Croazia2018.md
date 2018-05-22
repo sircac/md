@@ -13,9 +13,9 @@ author: Patito
 <li><strong>Sabato 18</strong>: andiamo tutta la giornata a Pola, tornando a dormire a quello airbnb nell’isola di Krk.</li>
 <li><strong>Domenica 19</strong>: partiamo a un nuovo airbnb a Zadar, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Zadar.</li>
 <li><strong>Lunedì 20</strong>: andiamo a rilassarci nei posti e spiagge dell’isola di Peg.</li>
-<li><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar ed andare a uno en Trogir. Approfitare la giornata a fermarci in Šibenik, e altri città.</li>
+<li><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar ed andiamo a uno en Trogir. Approfitare la giornata per vedere Šibenik, e altri città come Primošten.</li>
 <li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (non essendo in weekend forse è meno affollato).</li>
-<li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir ed andare al aeroporto.</li>
+<li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir ed andiamo al aeroporto.</li>
 </ul>
 <hr>
 <pre><code>Mercoledì 15
