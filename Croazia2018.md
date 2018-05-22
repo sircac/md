@@ -14,7 +14,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </blockquote>
 <p>Andare dritti a Pola, a 3h da Zagreb.</p>
 <h1 id="capitolo-i-pola">Capitolo I: Pola</h1>
-<h2 id="pola">Pola</h2>
+<h2 id="pola-">Pola <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <p>[<a href="https://it.wikipedia.org/wiki/Pola">wiki</a>]</p>
 <p>l’Arena di Pola dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
 <pre><code>Giovedì 16
