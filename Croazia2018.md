@@ -38,7 +38,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </code></pre>
 <h2 id="parco-nazionale-di-plitvice-">Parco Nazionale di Plitvice <a href="https://www.wikiwand.com/it/Parco_nazionale_dei_laghi_di_Plitvice"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/Yb8zdmySw8T2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860146.2853992726!2d14.597713812494545!3d44.91587361685517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47615e6cfed90f3d%3A0x51a8ff8379a5e70!2sParque+Nacional+de+los+Lagos+de+Plitvice!5e0!3m2!1ses!2sit!4v1527005342666" allowfullscreen="" width="400" height="300"></iframe>
-<p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte…</p>
+<p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte… sicuramente se deve planificare bene che fare qui.</p>
 <pre><code>Sabato 18
 </code></pre>
 <h1 id="capitolo-iii-pag-zadar-e-krka">Capitolo III: Pag, Zadar e Krka</h1>
