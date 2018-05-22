@@ -5,8 +5,37 @@ author: Patito
 ---
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
-<pre><code>Mercoledì 15
-</code></pre>
+<h4 id="agenda-proposta">Agenda proposta:</h4>
+<ul>
+<li>
+<p><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk, forse a Vrbnik, così vediamo una città quella notte.</p>
+</li>
+<li>
+<p><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (non essendo in weekend forse è meno affollato).</p>
+</li>
+<li>
+<p><strong>Venerdì 17</strong>: ripossiamo nell’isola, cercando spiage e città (Krk, Vrbnik,…).</p>
+</li>
+<li>
+<p><strong>Sabato 18</strong>: andiamo tutta la giornata a Pola, tornando a dormire a quello airbnb nell’isola di Krk.</p>
+</li>
+<li>
+<p><strong>Domenica 19</strong>: partiamo a un nuovo airbnb a Zadar, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Zadar.</p>
+</li>
+<li>
+<p><strong>Lunedì 20</strong>: andiamo a rilassarci nei posti e spiagge dell’isola di Peg.</p>
+</li>
+<li>
+<p><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar ed andare a uno en Trogir. Approfitare la giornata a fermarci in Šibenik, e altri città.</p>
+</li>
+<li>
+<p><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (non essendo in weekend forse è meno affollato).</p>
+</li>
+<li>
+<p><strong>Giovedì 23</strong>: passiamo la mattina in Trogir ed andare al aeroporto.</p>
+<p>Mercoledì 15</p>
+</li>
+</ul>
 <blockquote>
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
@@ -18,11 +47,11 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>l’Arena di Pola dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
 <pre><code>Giovedì 16
 </code></pre>
-<p>A mettà giornata spostarci al próssimo punto</p>
+<p>A mettà giornata (o alla fine) spostarci al próssimo punto</p>
 <h1 id="capitolo-ii-krk-e-plitvička">Capitolo II: Krk e Plitvička</h1>
 <h2 id="isola-krk-veglia-">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1024722.6086191535!2d14.168500016744877!3d44.81294509850201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005195294" allowfullscreen="" width="400" height="300"></iframe>
-<p>Collegata alla terraferma da ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
+<p>Collegata alla terraferma da un ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
 <ul>
 <li>
 <p><a href="https://www.aurea-krk.com/it/citta-di-krk-foto">Krk</a></p>
@@ -34,19 +63,18 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <h4 id="crikvenica">Crikvenica</h4>
 <p>I castelli della Riviera di Crikvenica… direi che secundario: <a href="https://www.croaziainfo.it/crikvenica-2.html">web#1</a> <a href="https://www.croaziainfo.it/castelli-frankopan-vinodol.html">web#2</a></p>
 <pre><code>Venerdì 17
+Sabato 18
 </code></pre>
 <h2 id="parco-nazionale-di-plitvička-plitvice-">Parco Nazionale di Plitvička (<em>Plitvice</em>) <a href="https://www.wikiwand.com/it/Parco_nazionale_dei_laghi_di_Plitvice"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/Yb8zdmySw8T2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860146.2853992726!2d14.597713812494545!3d44.91587361685517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47615e6cfed90f3d%3A0x51a8ff8379a5e70!2sParque+Nacional+de+los+Lagos+de+Plitvice!5e0!3m2!1ses!2sit!4v1527005342666" allowfullscreen="" width="400" height="300"></iframe>
 <p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte… sicuramente se deve planificare bene che fare qui.</p>
-<pre><code>Sabato 18
+<pre><code>Domenica 19
 </code></pre>
 <h1 id="capitolo-iii-pag-zadar-e-krka">Capitolo III: Pag, Zadar e Krka</h1>
 <h2 id="isola-pag-pago-">Isola Pag (<em>Pago</em>) <a href="https://it.wikipedia.org/wiki/Pago_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/DPsAD5TTqyJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1453736.0363833534!2d14.66920600390863!3d44.631208775501285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4762312ac48a1c53%3A0xd0d304bc0cb83143!2sPag!5e0!3m2!1ses!2sit!4v1527005621132" allowfullscreen="" width="400" height="300"></iframe>
 <p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge. [<a href="http://www.zingarate.com/croazia/croazia-agosto-consigli_pag2.html">+info</a>]</p>
-<pre><code>Domenica 19
-
-Lunedì 20
+<pre><code>Lunedì 20
 </code></pre>
 <h2 id="zadar-zara-">Zadar (<em>Zara</em>) <a href="https://it.wikipedia.org/wiki/Zara"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a><a href="https://goo.gl/maps/15PgfqAMi7F2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1456484.6149568427!2d14.496794824393431!3d44.521369334425906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4761fa62d2c0b88f%3A0x12323e1c13f40784!2sZadar%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006349594" allowfullscreen="" width="400" height="300"></iframe>
