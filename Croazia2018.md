@@ -18,6 +18,18 @@ author: Patito
 <li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</li>
 </ul>
 <hr>
+<h2 id="airbnb">Airbnb</h2>
+<h3 id="capitolo-i-krk-veglia-ed-intorni">Capitolo I: Krk (<em>Veglia</em>) ed intorni</h3>
+<ol>
+<li><a href="https://www.airbnb.it/rooms/24156550?location=Krk%2C%20Croazia&amp;adults=2&amp;check_in=2018-08-15&amp;check_out=2018-08-19&amp;s=OORGcBxX">https://www.airbnb.it/rooms/24156550?location=Krk%2C Croazia&amp;adults=2&amp;check_in=2018-08-15&amp;check_out=2018-08-19&amp;s=OORGcBxX</a></li>
+<li><a href="https://www.airbnb.it/rooms/17018001?s=gJS8NOyS&amp;check_in=2018-08-15&amp;guests=2&amp;adults=2&amp;check_out=2018-08-19">https://www.airbnb.it/rooms/17018001?s=gJS8NOyS&amp;check_in=2018-08-15&amp;guests=2&amp;adults=2&amp;check_out=2018-08-19</a></li>
+<li>…</li>
+</ol>
+<h3 id="capitolo-ii-zadar-zara">Capitolo II: Zadar (<em>Zara</em>)</h3>
+<ol>
+<li><a href="https://www.airbnb.es/rooms/13919474?location=Zadar%2C%20Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1">https://www.airbnb.es/rooms/13919474?location=Zadar%2C Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1</a></li>
+</ol>
+<hr>
 <pre><code>Mercoledì 15
 </code></pre>
 <blockquote>
