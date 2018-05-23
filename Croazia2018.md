@@ -5,17 +5,17 @@ author: Patito
 ---
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
-<h4 id="uagenda-propostau-3-airbnb-isola-krk-zadar-e-trogir"><u>Agenda proposta</u> (<em>3 airbnb: Isola Krk, Zadar e Trogir</em>)</h4>
+<h4 id="uagenda-propostau3-airbnb-isola-krk-veglia-zadar-zara-e-trogir-traù"><u>Agenda proposta</u><em>3 airbnb: Isola Krk (<em>Veglia</em>), Zadar (<em>Zara</em>) e Trogir (<em>Traù</em>)</em></h4>
 <ul>
-<li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk, forse a Vrbnik, così vediamo una città quella notte.</li>
-<li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (non essendo in weekend forse è meno affollato).</li>
-<li><strong>Venerdì 17</strong>: ripossiamo nell’isola, cercando spiage e città (Krk, Vrbnik,…).</li>
-<li><strong>Sabato 18</strong>: andiamo tutta la giornata a Pola, tornando a dormire a quello airbnb nell’isola di Krk.</li>
-<li><strong>Domenica 19</strong>: partiamo a un nuovo airbnb a Zadar, nella strada facciamo Pag sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag. Zadar lo vediamo nei giorni che prenottiamo là.</li>
-<li><strong>Lunedì 20</strong>: .</li>
-<li><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar ed andiamo a uno en Trogir. Approfitare la giornata per vedere Šibenik, e altri città come Primošten.</li>
-<li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (non essendo in weekend forse è meno affollato).</li>
-<li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir ed andiamo al aeroporto.</li>
+<li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
+<li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</li>
+<li><strong>Venerdì 17</strong>: ripossiamo nell’isola, cercando spiage e città come Krk (<em>Veglia</em>) o Vrbnik (<em>Verbenico</em>).</li>
+<li><strong>Sabato 18</strong>: andiamo tutta la giornata a Pula (<em>Pola</em>), tornando a dormire a quello airbnb nell’isola di Krk (<em>Veglia</em>).</li>
+<li><strong>Domenica 19</strong>: partiamo a un nuovo airbnb a Zadar (<em>Zara</em>), nella strada facciamo Pag (<em>Pago</em>) sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag (<em>Pago</em>). Zadar (<em>Zara</em>) lo vediamo nei giorni che prenottiamo là.</li>
+<li><strong>Lunedì 20</strong>: andiamo tutta la giornata al Parco Kornati (<em>Isole Incoronate</em>), non essendo in weekend forse è meno affollato.</li>
+<li><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar (<em>Zara</em>) ed andiamo a uno en Trogir (<em>Traù</em>). Approfitare la giornata per vedere Šibenik (<em>Sebenico</em>), e altri città come Primošten (<em>Capocesto</em>).</li>
+<li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</li>
+<li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</li>
 </ul>
 <hr>
 <pre><code>Mercoledì 15
@@ -24,11 +24,11 @@ author: Patito
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </blockquote>
-<p>Andare dritti a Pola, a 3h da Zagreb.</p>
-<h1 id="capitolo-i-pola">Capitolo I: Pola</h1>
-<h2 id="pola--">Pola <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<p>Andare dritti a Pula, a 3h da Zagreb.</p>
+<h1 id="capitolo-i-pula">Capitolo I: Pula</h1>
+<h2 id="pula-pola--">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986" allowfullscreen="" width="400" height="300"></iframe>
-<p>l’Arena di Pola dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
+<p>l’Arena di Pula dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
 <!--&#9;Gioved&#236; 16-->
 <p>A mettà giornata (o alla fine) spostarci al próssimo punto</p>
 <h1 id="capitolo-ii-krk-e-plitvička">Capitolo II: Krk e Plitvička</h1>
@@ -62,7 +62,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <h4 id="nin">Nin</h4>
 <p>E le saline di Nin</p>
 <!--&#9;Marted&#236; 21-->
-<h2 id="parco-nazionale-kornati--isole-incoronate--">Parco Nazionale Kornati (<em># Isole Incoronate</em>) <a href="https://it.wikipedia.org/wiki/Isole_Incoronate"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/mZxFh9TDaCP2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="parco-nazionale-kornati-isole-incoronate--">Parco Nazionale Kornati (<em>Isole Incoronate</em>) <a href="https://it.wikipedia.org/wiki/Isole_Incoronate"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/mZxFh9TDaCP2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1225046.9373018937!2d14.642673435014354!3d44.5073704127867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334ba048984aa8f%3A0x1261b787c810d926!2sKornati!5e0!3m2!1ses!2sit!4v1527104856874" allowfullscreen="" width="400" height="300"></iframe>
 <p><a href="http://www.np-kornati.hr/en">web</a></p>
 <!--&#9;Mercoled&#236; 22-->
