@@ -13,6 +13,7 @@ author: Patito
 <ul>
 <li><a href="#pula-pola--">Pula (<em>Pola</em>)</a></li>
 <li><a href="#isola-krk-veglia--">Isola Krk (<em>Veglia</em>)</a></li>
+<li><a href="#crikvenica-cirquenizza-1">Crikvenica (<em>Cirquenizza</em>)</a></li>
 <li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
 </ul>
 </li>
@@ -135,15 +136,15 @@ Croacia<br>
 <h2 id="isola-krk-veglia--">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1024722.6086191535!2d14.168500016744877!3d44.81294509850201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005195294" allowfullscreen="" width="400" height="300"></iframe>
 <p>Collegata alla terraferma da un ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
+<h3 id="krk-veglia">Krk (<em>Veglia</em>)</h3>
 <ul>
-<li>
-<p><a href="https://www.aurea-krk.com/it/citta-di-krk-foto">Krk</a></p>
-</li>
-<li>
-<p><a href="https://www.aurea-krk.com/it/vrbnik">Vrbnik</a></p>
-</li>
+<li><a href="https://www.aurea-krk.com/it/citta-di-krk-foto">Krk (<em>Veglia</em>)</a></li>
 </ul>
-<h4 id="crikvenica-cirquenizza-1">Crikvenica (<em><strong>Cirquenizza</strong></em>)</h4>
+<h3 id="vrbnik-verbenico">Vrbnik (<em>Verbenico</em>)</h3>
+<ul>
+<li><a href="https://www.aurea-krk.com/it/vrbnik">Vrbnik (<em>Verbenico</em>)</a></li>
+</ul>
+<h3 id="crikvenica-cirquenizza-1">Crikvenica (<em><strong>Cirquenizza</strong></em>)</h3>
 <p>I castelli della Riviera di Crikvenica… direi che secundario: <a href="https://www.croaziainfo.it/crikvenica-2.html">web#1</a> <a href="https://www.croaziainfo.it/castelli-frankopan-vinodol.html">web#2</a></p>
 <!--&#9;Venerd&#236; 17-->
 <!--&#9;Sabato 18-->
