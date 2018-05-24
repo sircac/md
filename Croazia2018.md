@@ -5,6 +5,10 @@ author: Patito
 ---
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
+<h3 id="uindiceu"><u>Indice</u>:</h3>
+<ol>
+<li><a href="#Agenda">Agenda</a></li>
+</ol>
 <h3 id="uagendau"><u>Agenda</u>:</h3>
 <ul>
 <li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
@@ -22,9 +26,9 @@ author: Patito
 <h3 id="capitolo-i-pula-krk-e-plitvička">Capitolo I: Pula, Krk e Plitvička</h3>
 <ul>
 <li>
-<h4 id="crikvenica-cirquenizza">Crikvenica (<em><strong>Cirquenizza</strong></em>):</h4>
-<a href="https://www.airbnb.es/reservation/itinerary?code=HM3YZJ92QY"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Tatjana</em><br>
-<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+385915881202">+385915881202</a>
+<h4 id="crikvenica-cirquenizza">Crikvenica (<em>Cirquenizza</em>):</h4>
+<a href="https://www.airbnb.es/rooms/24156550"><img src="https://cdn.iconscout.com/public/images/icon/free/png-512/airbnb-3bd5320ce603ad1e-512x512.png" alt="airbnb" width="20" height="20"></a> <a href="https://www.airbnb.es/reservation/itinerary?code=HM3YZJ92QY"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Tatjana</em><br>
+<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+385915881202">+385 91 588 1202</a>
 <ul>
 <li>IN: Mercoledì 15, 15:00 a 21:00</li>
 <li>OUT: Domenica 19, 10:00</li>
@@ -37,10 +41,42 @@ Croacia<br>
 </blockquote>
 </li>
 </ul>
-<h3 id="capitolo-ii-zadar-zara">Capitolo II: Zadar (<em>Zara</em>)</h3>
-<ol>
-<li><a href="https://www.airbnb.es/rooms/13919474?location=Zadar%2C%20Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1">https://www.airbnb.es/rooms/13919474?location=Zadar%2C Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1</a></li>
-</ol>
+<h3 id="capitolo-ii-pag-zadar-e--kornati">Capitolo II: Pag, Zadar e  Kornati</h3>
+<ul>
+<li>
+<h4 id="zadar-zara">Zadar (<em>Zara</em>):</h4>
+<a href="https://www.airbnb.es/rooms/12675424"><img src="https://cdn.iconscout.com/public/images/icon/free/png-512/airbnb-3bd5320ce603ad1e-512x512.png" alt="airbnb" width="20" height="20"></a> <a href="https://www.airbnb.es/reservation/itinerary?code=HMATMDJC8Z"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Davor</em><br>
+<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+38598449887">+385 98 449 887</a>
+<ul>
+<li>IN: Domenica 19, 11:00 in più</li>
+<li>OUT: Martedì 21, 10:00</li>
+</ul>
+<blockquote>
+<p>Put Stanova 6<br>
+Zadar, Zadarska županija 23000<br>
+Croacia<br>
+<a href="https://goo.gl/maps/mfa2yMDRmdQ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></p>
+</blockquote>
+</li>
+</ul>
+<h3 id="capitolo-iii-šibenik-krka-e-trogir">Capitolo III: Šibenik, Krka e Trogir</h3>
+<ul>
+<li>
+<h4 id="trogir-traù">Trogir (<em>Traù</em>):</h4>
+<a href="https://www.airbnb.es/rooms/19224600"><img src="https://cdn.iconscout.com/public/images/icon/free/png-512/airbnb-3bd5320ce603ad1e-512x512.png" alt="airbnb" width="20" height="20"></a> <a href="https://www.airbnb.es/reservation/itinerary?code=HMMH9QNECK"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Anamarija</em><br>
+<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+385917608031">+385 91 760 8031</a>
+<ul>
+<li>IN: Martedì 21, 14:00 a 20:00</li>
+<li>OUT: Giovedì 23, 10:00</li>
+</ul>
+<blockquote>
+<p>Ulica Kardinala Alojzija Stepinca 64<br>
+Trogir, Splitsko-dalmatinska županija 21220<br>
+Croacia<br>
+<a href="https://goo.gl/maps/wBUVTH4VYgx"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></p>
+</blockquote>
+</li>
+</ul>
 <hr>
 <pre><code>Mercoledì 15
 </code></pre>
@@ -71,7 +107,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860146.2853992726!2d14.597713812494545!3d44.91587361685517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47615e6cfed90f3d%3A0x51a8ff8379a5e70!2sParque+Nacional+de+los+Lagos+de+Plitvice!5e0!3m2!1ses!2sit!4v1527005342666" allowfullscreen="" width="400" height="300"></iframe>
 <p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte… sicuramente se deve planificare bene che fare qui.</p>
 <!--&#9;Domenica 19-->
-<h1 id="capitolo-iii-pag-zadar-e--kornati">Capitolo III: Pag, Zadar e  Kornati</h1>
+<h1 id="capitolo-ii-pag-zadar-e--kornati-1">Capitolo II: Pag, Zadar e  Kornati</h1>
 <h2 id="isola-pag-pago--">Isola Pag (<em>Pago</em>) <a href="https://it.wikipedia.org/wiki/Pago_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/DPsAD5TTqyJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1453736.0363833534!2d14.66920600390863!3d44.631208775501285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4762312ac48a1c53%3A0xd0d304bc0cb83143!2sPag!5e0!3m2!1ses!2sit!4v1527005621132" allowfullscreen="" width="400" height="300"></iframe>
 <p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge. [<a href="http://www.zingarate.com/croazia/croazia-agosto-consigli_pag2.html">+info</a>]</p>
@@ -86,7 +122,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1225046.9373018937!2d14.642673435014354!3d44.5073704127867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334ba048984aa8f%3A0x1261b787c810d926!2sKornati!5e0!3m2!1ses!2sit!4v1527104856874" allowfullscreen="" width="400" height="300"></iframe>
 <p><a href="http://www.np-kornati.hr/en">web</a></p>
 <!--&#9;Mercoled&#236; 22-->
-<h1 id="capitolo-iv-šibenik-krka-e-trogir">Capitolo IV: Šibenik, Krka e Trogir</h1>
+<h1 id="capitolo-iii-šibenik-krka-e-trogir-1">Capitolo III: Šibenik, Krka e Trogir</h1>
 <h2 id="šibenik-sebenico--">Šibenik (<em>Sebenico</em>) <a href="https://it.wikipedia.org/wiki/Sebenico"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/PfgeDUW5pAL2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465210.2804199955!2d14.727049456469576!3d44.17124228377455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352615d088d09d%3A0x400ad50862bcc20!2s%C5%A0ibenik%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006825308" allowfullscreen="" width="400" height="300"></iframe>
 <p>Una delle più antiche città dell’Adriatico Croato, famosa per la Cattedrale di San Giacomo e il ricchissimo programma culturale e di i intrattenimento, con Festival giovani e divertenti e rassegne musicali e teatrali imperdibili.</p>
