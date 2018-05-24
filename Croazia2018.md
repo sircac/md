@@ -5,7 +5,7 @@ author: Patito
 ---
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
-<h4 id="uagenda-propostau3-airbnb-isola-krk-veglia-zadar-zara-e-trogir-traù"><u>Agenda proposta</u><em>3 airbnb: Isola Krk (<em>Veglia</em>), Zadar (<em>Zara</em>) e Trogir (<em>Traù</em>)</em></h4>
+<h3 id="uagendau"><u>Agenda</u>:</h3>
 <ul>
 <li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
 <li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</li>
@@ -19,12 +19,24 @@ author: Patito
 </ul>
 <hr>
 <h2 id="airbnb">Airbnb</h2>
-<h3 id="capitolo-i-krk-veglia-ed-intorni">Capitolo I: Krk (<em>Veglia</em>) ed intorni</h3>
-<ol>
-<li><a href="https://www.airbnb.it/rooms/24156550?location=Krk%2C%20Croazia&amp;adults=2&amp;check_in=2018-08-15&amp;check_out=2018-08-19&amp;s=OORGcBxX">https://www.airbnb.it/rooms/24156550?location=Krk%2C Croazia&amp;adults=2&amp;check_in=2018-08-15&amp;check_out=2018-08-19&amp;s=OORGcBxX</a></li>
-<li><a href="https://www.airbnb.it/rooms/17018001?s=gJS8NOyS&amp;check_in=2018-08-15&amp;guests=2&amp;adults=2&amp;check_out=2018-08-19">https://www.airbnb.it/rooms/17018001?s=gJS8NOyS&amp;check_in=2018-08-15&amp;guests=2&amp;adults=2&amp;check_out=2018-08-19</a></li>
-<li>…</li>
-</ol>
+<h3 id="capitolo-i-pula-krk-e-plitvička">Capitolo I: Pula, Krk e Plitvička</h3>
+<ul>
+<li>
+<h4 id="crikvenica-cirquenizza">Crikvenica (<em><strong>Cirquenizza</strong></em>):</h4>
+<a href="https://www.airbnb.es/reservation/itinerary?code=HM3YZJ92QY"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Tatjana</em><br>
+<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+385915881202">+385915881202</a>
+<ul>
+<li>IN: Mercoledì 15, 15:00 a 21:00</li>
+<li>OUT: Domenica 19, 10:00</li>
+</ul>
+<blockquote>
+<p>Odvojak Goranske Ulice 4<br>
+Crikvenica, Primorsko-goranska županija 51260<br>
+Croacia<br>
+<a href="https://goo.gl/maps/sScxuTuwRsS2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></p>
+</blockquote>
+</li>
+</ul>
 <h3 id="capitolo-ii-zadar-zara">Capitolo II: Zadar (<em>Zara</em>)</h3>
 <ol>
 <li><a href="https://www.airbnb.es/rooms/13919474?location=Zadar%2C%20Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1">https://www.airbnb.es/rooms/13919474?location=Zadar%2C Croazia&amp;adults=2&amp;check_in=2018-08-19&amp;check_out=2018-08-21&amp;s=pCMj0AD1</a></li>
@@ -36,14 +48,10 @@ author: Patito
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </blockquote>
-<p>Andare dritti a Pula, a 3h da Zagreb.</p>
-<h1 id="capitolo-i-pula">Capitolo I: Pula</h1>
+<h1 id="capitolo-i-pula-krk-e-plitvička-1">Capitolo I: Pula, Krk e Plitvička</h1>
 <h2 id="pula-pola--">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986" allowfullscreen="" width="400" height="300"></iframe>
 <p>l’Arena di Pula dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
-<!--&#9;Gioved&#236; 16-->
-<p>A mettà giornata (o alla fine) spostarci al próssimo punto</p>
-<h1 id="capitolo-ii-krk-e-plitvička">Capitolo II: Krk e Plitvička</h1>
 <h2 id="isola-krk-veglia--">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1024722.6086191535!2d14.168500016744877!3d44.81294509850201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005195294" allowfullscreen="" width="400" height="300"></iframe>
 <p>Collegata alla terraferma da un ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
@@ -55,7 +63,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p><a href="https://www.aurea-krk.com/it/vrbnik">Vrbnik</a></p>
 </li>
 </ul>
-<h4 id="crikvenica">Crikvenica</h4>
+<h4 id="crikvenica-cirquenizza-1">Crikvenica (<em><strong>Cirquenizza</strong></em>)</h4>
 <p>I castelli della Riviera di Crikvenica… direi che secundario: <a href="https://www.croaziainfo.it/crikvenica-2.html">web#1</a> <a href="https://www.croaziainfo.it/castelli-frankopan-vinodol.html">web#2</a></p>
 <!--&#9;Venerd&#236; 17-->
 <!--&#9;Sabato 18-->
