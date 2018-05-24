@@ -6,11 +6,42 @@ author: Patito
 
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
 <h3 id="uindiceu"><u>Indice</u>:</h3>
-<ol>
+<ul>
 <li><a href="#agenda">Agenda</a></li>
 <li><a href="#airbnb">Airbnb</a></li>
-</ol>
+<li>Capitolo I: Pula, Krk e Plitvička
+<ul>
+<li><a href="#pula-pola--">Pula (<em>Pola</em>)</a></li>
+<li><a href="#isola-krk-veglia--">Isola Krk (<em>Veglia</em>)</a></li>
+<li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
+</ul>
+</li>
+<li>Capitolo II: Pag, Zadar e Kornati
+<ul>
+<li><a href="#isola-pag-pago--">Isola Pag (<em>Pago</em>)</a></li>
+<li><a href="#zadar-zara--">Zadar (<em>Zara</em>)</a></li>
+<li><a href="#parco-nazionale-kornati-isole-incoronate--">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a></li>
+</ul>
+</li>
+<li>Capitolo III: Šibenik, Krka e Trogir
+<ul>
+<li><a href="#%C5%A1ibenik-sebenico--">Šibenik (<em>Sebenico</em>)</a></li>
+<li><a href="#parco-nazionale-krka-cherca--">Parco Nazionale di Krka (<em>Cherca</em>)</a></li>
+<li><a href="#primo%C5%A1ten-capocesto--">Primošten (<em>Capocesto</em>)</a></li>
+<li><a href="#trogir-tra%C3%B9--">Trogir (<em>Traù</em>)</a></li>
+</ul>
+</li>
+<li>Extra
+<ul>
+<li><a href="#split-sp%C3%A0lato--">Split (<em>Spàlato</em>)</a></li>
+</ul>
+</li>
+</ul>
 <h2 id="agenda">Agenda</h2>
+<blockquote>
+<p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
+By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
+</blockquote>
 <ul>
 <li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
 <li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</li>
@@ -22,6 +53,10 @@ author: Patito
 <li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</li>
 <li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</li>
 </ul>
+<blockquote>
+<p>FLY Spalato (15:55h) -&gt; Roma (17:05h)<br>
+By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
+</blockquote>
 <h2 id="airbnb">Airbnb</h2>
 <h3 id="capitolo-i-pula-krk-e-plitvička">Capitolo I: Pula, Krk e Plitvička</h3>
 <ul>
@@ -80,10 +115,6 @@ Croacia<br>
 <hr>
 <pre><code>Mercoledì 15
 </code></pre>
-<blockquote>
-<p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
-By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
-</blockquote>
 <h1 id="capitolo-i-pula-krk-e-plitvička-1">Capitolo I: Pula, Krk e Plitvička</h1>
 <h2 id="pula-pola--">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986" allowfullscreen="" width="400" height="300"></iframe>
@@ -139,13 +170,8 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <pre><code>Giovedì 23
 </code></pre>
 <p>Abandonare Trogir a mezzogiorno.</p>
-<blockquote>
-<p>FLY Spalato (15:55h) -&gt; Roma (17:05h)<br>
-By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
-</blockquote>
-<hr>
-<h1 id="riserva">Riserva</h1>
-<h2 id="spàlato-split--">Spàlato (<em>Split</em>) <a href="https://it.wikipedia.org/wiki/Spalato"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/efZparzhTgp"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h1 id="extra">Extra</h1>
+<h2 id="split-spàlato--">Split (<em>Spàlato</em>) <a href="https://it.wikipedia.org/wiki/Spalato"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/efZparzhTgp"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1746457.7335802878!2d14.945549585343377!3d44.03503288689249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13355dfc6bbcf517%3A0xa1798ff631b49f98!2s21000%2C+Split%2C+Croacia!5e0!3m2!1ses!2sit!4v1527007510070" allowfullscreen="" width="400" height="300"></iframe>
 <p>Semplicemente Spalato… forse per altra ocasione insieme a Duvrobnik.</p>
 <!--&#10;## KaTeX&#10;&#10;You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):&#10;&#10;The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&#10;&#10;$$&#10;\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.&#10;$$&#10;&#10;&gt; You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).&#10;-->
