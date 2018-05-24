@@ -196,7 +196,7 @@ Croacia<br>
 <p>Semplicemente Spalato… forse per altra ocasione insieme a Duvrobnik.</p>
 <h2 id="links">Links</h2>
 <ul>
-<li><a href="https://feeds.croatia.hr/es/">https://feeds.croatia.hr/es/</a>
+<li><a href="https://feeds.croatia.hr/it/">https://feeds.croatia.hr/it/</a>
 <ul>
 <li><a href="https://feeds.croatia.hr/epic-week/">epic-week</a></li>
 <li><a href="https://feeds.croatia.hr/it/trova-il-tesoro-nascosto/?utm_campaign=IT_FB-IG_brand-april_nautical_2018&amp;utm_medium=cpc&amp;utm_source=Facebook&amp;utm_content=la10-web-int_image-ad2">trova-il-tesoro-nascosto</a></li>
