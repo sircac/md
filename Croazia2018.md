@@ -7,8 +7,8 @@ author: Patito
 <h1 id="operación-patitos-calentitos-episodio-croacia-"><strong>Operación Patitos Calentitos: Episodio Croacia</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" alt="Flag" width="40" height="25"></h1>
 <h3 id="uindiceu"><u>Indice</u>:</h3>
 <ol>
-<li><a href="#Agenda">Agenda</a></li>
-<li><a href="#Airbnb">Airbnb</a></li>
+<li><a href="#agenda">Agenda</a></li>
+<li><a href="#airbnb">Airbnb</a></li>
 </ol>
 <h2 id="agenda">Agenda</h2>
 <ul>
