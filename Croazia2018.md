@@ -25,7 +25,7 @@ author: Patito
 <li>Capitolo II: Pag, Zadar e Kornati
 <ul>
 <li><a href="#isola-pag-pago--">Isola Pag (<em>Pago</em>)</a></li>
-<li><a href="#zadar-zara--">Zadar (<em>Zara</em>)</a></li>
+<li><a href="#zadar-zara---">Zadar (<em>Zara</em>)</a></li>
 <li><a href="#parco-nazionale-kornati-isole-incoronate--">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a></li>
 </ul>
 </li>
@@ -163,9 +163,9 @@ Croacia<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1453736.0363833534!2d14.66920600390863!3d44.631208775501285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4762312ac48a1c53%3A0xd0d304bc0cb83143!2sPag!5e0!3m2!1ses!2sit!4v1527005621132" width="400" height="300" allowfullscreen=""></iframe>
 <p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge. [<a href="http://www.zingarate.com/croazia/croazia-agosto-consigli_pag2.html">+info</a>]</p>
 <!--&#9;Luned&#236; 20-->
-<h2 id="zadar-zara--">Zadar (<em>Zara</em>) <a href="https://it.wikipedia.org/wiki/Zara"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/15PgfqAMi7F2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="zadar-zara---">Zadar (<em>Zara</em>) <a href="https://it.wikipedia.org/wiki/Zara"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/15PgfqAMi7F2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.zadar.travel/it/naslovna"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1456484.6149568427!2d14.496794824393431!3d44.521369334425906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4761fa62d2c0b88f%3A0x12323e1c13f40784!2sZadar%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006349594" width="400" height="300" allowfullscreen=""></iframe>
-<p>Città storica dal bellissimo centro, con l’organo Marino e il saluto al sole.</p>
+<p>Città storica dal bellissimo centro, con l’organo Marino e il saluto al sole: il tramonto più bello secondo Hitchcock. Le mura di cinta di Zadar è stata inserita nella lista del Patrimonio Mondiale dell’Umanità dell’UNESCO.</p>
 <h4 id="nin">Nin</h4>
 <p>E le saline di Nin</p>
 <!--&#9;Marted&#236; 21-->
@@ -176,7 +176,7 @@ Croacia<br>
 <h1 id="capitolo-iii-šibenik-krka-e-trogir-1">Capitolo III: Šibenik, Krka e Trogir</h1>
 <h2 id="šibenik-sebenico---">Šibenik (<em>Sebenico</em>) <a href="https://it.wikipedia.org/wiki/Sebenico"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/PfgeDUW5pAL2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.sibenik-tourism.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465210.2804199955!2d14.727049456469576!3d44.17124228377455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352615d088d09d%3A0x400ad50862bcc20!2s%C5%A0ibenik%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006825308" width="400" height="300" allowfullscreen=""></iframe>
-<p>Una delle più antiche città dell’Adriatico Croato, famosa per la Cattedrale di San Giacomo e il ricchissimo programma culturale e di i intrattenimento, con Festival giovani e divertenti e rassegne musicali e teatrali imperdibili.</p>
+<p>Una delle più antiche città dell’Adriatico Croato, famosa per la Cattedrale di San Giacomo e il ricchissimo programma culturale e di i intrattenimento, con Festival giovani e divertenti e rassegne musicali e teatrali imperdibili. La fortezza di San Nicola di Šibenik è stata inserita nella lista del Patrimonio Mondiale dell’Umanità dell’UNESCO.</p>
 <h2 id="parco-nazionale-krka-cherca--">Parco Nazionale Krka (<em>Cherca</em>) <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462542.6995781155!2d14.632710115597753!3d44.27851461833799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12e1d4d5d0103938!2sParque+nacional+Krka!5e0!3m2!1ses!2sit!4v1527006438560" width="400" height="300" allowfullscreen=""></iframe>
 <p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali. Credo conviene informarsi bene su i percorsi, accessi, ecc. Avissano che in Agosto è come Punta Prosciuto…<br>
