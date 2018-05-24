@@ -12,8 +12,13 @@ author: Patito
 <li>Capitolo I: Pula, Krk e Plitvička
 <ul>
 <li><a href="#pula-pola--">Pula (<em>Pola</em>)</a></li>
-<li><a href="#isola-krk-veglia--">Isola Krk (<em>Veglia</em>)</a></li>
+<li><a href="#isola-krk-veglia--">Isola Krk (<em>Veglia</em>)</a>
+<ul>
+<li><a href="#krk-veglia">Krk (<em>Veglia</em>)</a></li>
+<li><a href="#vrbnik-verbenico">Vrbnik (<em>Verbenico</em>)</a></li>
 <li><a href="#crikvenica-cirquenizza-1">Crikvenica (<em>Cirquenizza</em>)</a></li>
+</ul>
+</li>
 <li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
 </ul>
 </li>
@@ -52,7 +57,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <pre><code>Venerdì 17: Isola Krk
 </code></pre>
 <p>Ripossiamo nell’isola di Krk (<em>Veglia</em>), cercando spiage e città come Krk (<em>Veglia</em>) o Vrbnik (<em>Verbenico</em>).</p>
-<pre><code>Sabato 18: Isola Pula
+<pre><code>Sabato 18: Pula
 </code></pre>
 <p>Andiamo tutta la giornata a Pula (<em>Pola</em>), tornando a dormire a quello airbnb a Crikvenica (<em>Cirquenizza</em>).</p>
 <pre><code>Domenica 19: Pag e Zadar
