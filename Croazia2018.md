@@ -150,7 +150,7 @@ Croacia<br>
 <ul>
 <li><a href="https://www.aurea-krk.com/it/vrbnik">Vrbnik (<em>Verbenico</em>)</a></li>
 </ul>
-<h3 id="crikvenica-cirquenizza-1">Crikvenica (<em><strong>Cirquenizza</strong></em>)</h3>
+<h3 id="crikvenica-cirquenizza-">Crikvenica (<em><strong>Cirquenizza</strong></em>) <a href="http://www.rivieracrikvenica.com/en?language=en"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h3>
 <p>I castelli della Riviera di Crikvenica… direi che secundario: <a href="https://www.croaziainfo.it/crikvenica-2.html">web#1</a> <a href="https://www.croaziainfo.it/castelli-frankopan-vinodol.html">web#2</a></p>
 <!--&#9;Venerd&#236; 17-->
 <!--&#9;Sabato 18-->
@@ -174,7 +174,7 @@ Croacia<br>
 <p><a href="http://www.np-kornati.hr/en">web</a></p>
 <!--&#9;Mercoled&#236; 22-->
 <h1 id="capitolo-iii-šibenik-krka-e-trogir-1">Capitolo III: Šibenik, Krka e Trogir</h1>
-<h2 id="šibenik-sebenico--">Šibenik (<em>Sebenico</em>) <a href="https://it.wikipedia.org/wiki/Sebenico"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/PfgeDUW5pAL2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="šibenik-sebenico---">Šibenik (<em>Sebenico</em>) <a href="https://it.wikipedia.org/wiki/Sebenico"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/PfgeDUW5pAL2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.sibenik-tourism.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465210.2804199955!2d14.727049456469576!3d44.17124228377455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352615d088d09d%3A0x400ad50862bcc20!2s%C5%A0ibenik%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006825308" width="400" height="300" allowfullscreen=""></iframe>
 <p>Una delle più antiche città dell’Adriatico Croato, famosa per la Cattedrale di San Giacomo e il ricchissimo programma culturale e di i intrattenimento, con Festival giovani e divertenti e rassegne musicali e teatrali imperdibili.</p>
 <h2 id="parco-nazionale-krka-cherca--">Parco Nazionale Krka (<em>Cherca</em>) <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
