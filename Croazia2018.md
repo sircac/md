@@ -11,29 +11,29 @@ author: Patito
 <li><a href="#airbnb">Airbnb</a></li>
 <li>Capitolo I: Pula, Krk e Plitvička
 <ul>
-<li><a href="#pula-pola--">Pula (<em>Pola</em>)</a></li>
-<li><a href="#isola-krk-veglia--">Isola Krk (<em>Veglia</em>)</a>
+<li><a href="#pula-pola---">Pula (<em>Pola</em>)</a></li>
+<li><a href="#isola-krk-veglia---">Isola Krk (<em>Veglia</em>)</a>
 <ul>
-<li><a href="#krk-veglia">Krk (<em>Veglia</em>)</a></li>
-<li><a href="#vrbnik-verbenico">Vrbnik (<em>Verbenico</em>)</a></li>
+<li><a href="#krk-veglia-">Krk (<em>Veglia</em>)</a></li>
+<li><a href="#vrbnik-verbenico-">Vrbnik (<em>Verbenico</em>)</a></li>
 <li><a href="#crikvenica-cirquenizza-">Crikvenica (<em>Cirquenizza</em>)</a></li>
 </ul>
 </li>
-<li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
+<li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
 </ul>
 </li>
 <li>Capitolo II: Pag, Zadar e Kornati
 <ul>
-<li><a href="#isola-pag-pago--">Isola Pag (<em>Pago</em>)</a></li>
+<li><a href="#isola-pag-pago---">Isola Pag (<em>Pago</em>)</a></li>
 <li><a href="#zadar-zara---">Zadar (<em>Zara</em>)</a></li>
-<li><a href="#parco-nazionale-kornati-isole-incoronate--">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a></li>
+<li><a href="#parco-nazionale-kornati-isole-incoronate---">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a></li>
 </ul>
 </li>
 <li>Capitolo III: Šibenik, Krka e Trogir
 <ul>
 <li><a href="#%C5%A1ibenik-sebenico---">Šibenik (<em>Sebenico</em>)</a></li>
-<li><a href="#parco-nazionale-krka-cherca--">Parco Nazionale di Krka (<em>Cherca</em>)</a></li>
-<li><a href="#primo%C5%A1ten-capocesto--">Primošten (<em>Capocesto</em>)</a></li>
+<li><a href="#parco-nazionale-krka-cherca---">Parco Nazionale di Krka (<em>Cherca</em>)</a></li>
+<li><a href="#primo%C5%A1ten-capocesto---">Primošten (<em>Capocesto</em>)</a></li>
 <li><a href="#trogir-tra%C3%B9---">Trogir (<em>Traù</em>)</a></li>
 </ul>
 </li>
