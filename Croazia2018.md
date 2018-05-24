@@ -16,7 +16,7 @@ author: Patito
 <ul>
 <li><a href="#krk-veglia">Krk (<em>Veglia</em>)</a></li>
 <li><a href="#vrbnik-verbenico">Vrbnik (<em>Verbenico</em>)</a></li>
-<li><a href="#crikvenica-cirquenizza-1">Crikvenica (<em>Cirquenizza</em>)</a></li>
+<li><a href="#crikvenica-cirquenizza-">Crikvenica (<em>Cirquenizza</em>)</a></li>
 </ul>
 </li>
 <li><a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a></li>
@@ -31,15 +31,15 @@ author: Patito
 </li>
 <li>Capitolo III: Šibenik, Krka e Trogir
 <ul>
-<li><a href="#%C5%A1ibenik-sebenico--">Šibenik (<em>Sebenico</em>)</a></li>
+<li><a href="#%C5%A1ibenik-sebenico---">Šibenik (<em>Sebenico</em>)</a></li>
 <li><a href="#parco-nazionale-krka-cherca--">Parco Nazionale di Krka (<em>Cherca</em>)</a></li>
 <li><a href="#primo%C5%A1ten-capocesto--">Primošten (<em>Capocesto</em>)</a></li>
-<li><a href="#trogir-tra%C3%B9--">Trogir (<em>Traù</em>)</a></li>
+<li><a href="#trogir-tra%C3%B9---">Trogir (<em>Traù</em>)</a></li>
 </ul>
 </li>
 <li>Extra
 <ul>
-<li><a href="#split-sp%C3%A0lato--">Split (<em>Spàlato</em>)</a></li>
+<li><a href="#split-sp%C3%A0lato---">Split (<em>Spàlato</em>)</a></li>
 <li><a href="#links">Links</a></li>
 </ul>
 </li>
@@ -184,14 +184,14 @@ Croacia<br>
 <h2 id="primošten-capocesto--">Primošten (<em>Capocesto</em>) <a href="https://it.wikipedia.org/wiki/Capocesto"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/hm4Rw6FQenG2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1751216.6970125996!2d15.357136873191296!3d43.87332051225949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352285a126b841%3A0xa0444300c8544de0!2sPrimo%C5%A1ten%2C+Croacia!5e0!3m2!1ses!2sit!4v1527007218232" width="400" height="300" allowfullscreen=""></iframe>
 <p>Centro storico raccolto su una penisola.</p>
-<h2 id="trogir-traù--">Trogir (<em>Traù</em>) <a href="https://it.wikipedia.org/wiki/Tra%C3%B9"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/f5W1Y7WFs5C2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="trogir-traù---">Trogir (<em>Traù</em>) <a href="https://it.wikipedia.org/wiki/Tra%C3%B9"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/f5W1Y7WFs5C2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.visittrogir.hr"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1744002.1011708262!2d15.241953157701815!3d44.11829227983962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1335420993dd42f7%3A0x8395754b009b5daa!2sTrogir%2C+Croacia!5e0!3m2!1ses!2sit!4v1527007305614" width="400" height="300" allowfullscreen=""></iframe>
 <p>Città fortificata, sito protetto dall’UNESCO. Accanto dal aeroporto di Spalato.</p>
 <pre><code>Giovedì 23
 </code></pre>
 <p>Abandonare Trogir a mezzogiorno.</p>
 <h1 id="extra">Extra</h1>
-<h2 id="split-spàlato--">Split (<em>Spàlato</em>) <a href="https://it.wikipedia.org/wiki/Spalato"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/efZparzhTgp"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="split-spàlato---">Split (<em>Spàlato</em>) <a href="https://it.wikipedia.org/wiki/Spalato"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/efZparzhTgp"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.visitsplit.com/it/1/benvenuti-a-spalato"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1746457.7335802878!2d14.945549585343377!3d44.03503288689249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13355dfc6bbcf517%3A0xa1798ff631b49f98!2s21000%2C+Split%2C+Croacia!5e0!3m2!1ses!2sit!4v1527007510070" width="400" height="300" allowfullscreen=""></iframe>
 <p>Semplicemente Spalato… forse per altra ocasione insieme a Duvrobnik.</p>
 <h2 id="links">Links</h2>
