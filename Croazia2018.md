@@ -38,21 +38,37 @@ author: Patito
 </li>
 </ul>
 <h2 id="agenda">Agenda</h2>
+<pre><code>Mercoledì 15: Crikvenica
+</code></pre>
 <blockquote>
 <p>FLY Roma (11:15h) -&gt; Zagreb (14:20h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </blockquote>
-<ul>
-<li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
-<li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</li>
-<li><strong>Venerdì 17</strong>: ripossiamo nell’isola, cercando spiage e città come Krk (<em>Veglia</em>) o Vrbnik (<em>Verbenico</em>).</li>
-<li><strong>Sabato 18</strong>: andiamo tutta la giornata a Pula (<em>Pola</em>), tornando a dormire a quello airbnb nell’isola di Krk (<em>Veglia</em>).</li>
-<li><strong>Domenica 19</strong>: partiamo a un nuovo airbnb a Zadar (<em>Zara</em>), nella strada facciamo Pag (<em>Pago</em>) sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag (<em>Pago</em>). Zadar (<em>Zara</em>) lo vediamo nei giorni che prenottiamo là.</li>
-<li><strong>Lunedì 20</strong>: andiamo tutta la giornata al Parco Kornati (<em>Isole Incoronate</em>), non essendo in weekend forse è meno affollato.</li>
-<li><strong>Martedì 21</strong>: lasciamo l’airbnb di Zadar (<em>Zara</em>) ed andiamo a uno en Trogir (<em>Traù</em>). Approfitare la giornata per vedere Šibenik (<em>Sebenico</em>), e altri città come Primošten (<em>Capocesto</em>).</li>
-<li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</li>
-<li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</li>
-</ul>
+<p>Al arrivare andiamo al airbnb a Crikvenica (<em>Cirquenizza</em>), così vediamo una città quella notte, forse anche abbiamo tempo di un primo bagno.</p>
+<pre><code>Giovedì 16: Parco Plitvička
+</code></pre>
+<p>Andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</p>
+<pre><code>Venerdì 17: Isola Krk
+</code></pre>
+<p>Ripossiamo nell’isola di Krk (<em>Veglia</em>), cercando spiage e città come Krk (<em>Veglia</em>) o Vrbnik (<em>Verbenico</em>).</p>
+<pre><code>Sabato 18: Isola Pula
+</code></pre>
+<p>Andiamo tutta la giornata a Pula (<em>Pola</em>), tornando a dormire a quello airbnb a Crikvenica (<em>Cirquenizza</em>).</p>
+<pre><code>Domenica 19: Pag e Zadar
+</code></pre>
+<p>Partiamo al airbnb a Zadar (<em>Zara</em>), nella strada facciamo Pag (<em>Pago</em>) sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag (<em>Pago</em>). Zadar (<em>Zara</em>) lo vediamo nei giorni che prenottiamo là.</p>
+<pre><code>Lunedì 20: Parco Kornati
+</code></pre>
+<p>Andiamo tutta la giornata al Parco Kornati (<em>Isole Incoronate</em>), non essendo in weekend forse è meno affollato.</p>
+<pre><code>Martedì 21: Šibenik, Primošten e Traù
+</code></pre>
+<p>Lasciamo l’airbnb di Zadar (<em>Zara</em>) ed andiamo a quello a Trogir (<em>Traù</em>). Approfitare la giornata per vedere Šibenik (<em>Sebenico</em>), e altri città come Primošten (<em>Capocesto</em>) nella strada.</p>
+<pre><code>Mercoledì 22: Parco Krka
+</code></pre>
+<p>Andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</p>
+<pre><code>Mercoledì 22: Trogir e ritorno
+</code></pre>
+<p>Passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</p>
 <blockquote>
 <p>FLY Spalato (15:55h) -&gt; Roma (17:05h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
@@ -112,9 +128,6 @@ Croacia<br>
 </blockquote>
 </li>
 </ul>
-<hr>
-<pre><code>Mercoledì 15
-</code></pre>
 <h1 id="capitolo-i-pula-krk-e-plitvička-1">Capitolo I: Pula, Krk e Plitvička</h1>
 <h2 id="pula-pola--">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986" allowfullscreen="" width="400" height="300"></iframe>
