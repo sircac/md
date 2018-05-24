@@ -40,7 +40,7 @@ author: Patito
 <li>Extra
 <ul>
 <li><a href="#split-sp%C3%A0lato---">Split (<em>Spàlato</em>)</a></li>
-<li><a href="#links">Links</a></li>
+<li><a href="#links"><strong>Links</strong></a></li>
 </ul>
 </li>
 </ul>
@@ -63,7 +63,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>Andiamo tutta la giornata a Pula (<em>Pola</em>), tornando a dormire a quello airbnb a Crikvenica (<em>Cirquenizza</em>).</p>
 <pre><code>Domenica 19: Pag e Zadar
 </code></pre>
-<p>Partiamo al airbnb a Zadar (<em>Zara</em>), nella strada facciamo Pag (<em>Pago</em>) sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag (<em>Pago</em>). Zadar (<em>Zara</em>) lo vediamo nei giorni che prenottiamo là.</p>
+<p>Partiamo al airbnb a Zadar (<em>Zara</em>), nella strada facciamo Pag (<em>Pago</em>) sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto Pag (<em>Pago</em>). Zadar (<em>Zara</em>) lo vediamo nei giorni che prenottiamo là… non dimenticare il suo tramonto all’organo sul mare.</p>
 <pre><code>Lunedì 20: Parco Kornati
 </code></pre>
 <p>Andiamo tutta la giornata al Parco Kornati (<em>Isole Incoronate</em>), non essendo in weekend forse è meno affollato.</p>
@@ -136,10 +136,10 @@ Croacia<br>
 </li>
 </ul>
 <h1 id="capitolo-i-pula-krk-e-plitvička-1">Capitolo I: Pula, Krk e Plitvička</h1>
-<h2 id="pula-pola--">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="pula-pola---">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.pulainfo.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>l’Arena di Pula dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
-<h2 id="isola-krk-veglia--">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="isola-krk-veglia---">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.tz-krk.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1024722.6086191535!2d14.168500016744877!3d44.81294509850201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005195294&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Collegata alla terraferma da un ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
 <h3 id="krk-veglia">Krk (<em>Veglia</em>)</h3>
@@ -159,7 +159,7 @@ Croacia<br>
 <p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte… sicuramente se deve planificare bene che fare qui.</p>
 <!--&#9;Domenica 19-->
 <h1 id="capitolo-ii-pag-zadar-e--kornati-1">Capitolo II: Pag, Zadar e  Kornati</h1>
-<h2 id="isola-pag-pago---">Isola Pag (<em>Pago</em>) <a href="https://it.wikipedia.org/wiki/Pago_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/DPsAD5TTqyJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://tzgpag.hr/en/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
+<h2 id="isola-pag-pago---">Isola Pag (<em>Pago</em>) <a href="https://it.wikipedia.org/wiki/Pago_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/DPsAD5TTqyJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://tzgpag.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1453736.0363833534!2d14.66920600390863!3d44.631208775501285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4762312ac48a1c53%3A0xd0d304bc0cb83143!2sPag!5e0!3m2!1ses!2sit!4v1527005621132&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Famosa per i suoi merletti e l’ottimo formaggio di pecora, l’agnello alla griglia e l’olio di Lun. Spiagge, spiagge, spiagge. [<a href="http://www.zingarate.com/croazia/croazia-agosto-consigli_pag2.html">+info</a>]</p>
 <!--&#9;Luned&#236; 20-->
