@@ -69,7 +69,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>Andiamo tutta la giornata al Parco Kornati (<em>Isole Incoronate</em>), non essendo in weekend forse è meno affollato.</p>
 <pre><code>Martedì 21: Šibenik, Primošten e Traù
 </code></pre>
-<p>Lasciamo l’airbnb di Zadar (<em>Zara</em>) ed andiamo a quello a Trogir (<em>Traù</em>). Approfitare la giornata per vedere Šibenik (<em>Sebenico</em>), e altri città come Primošten (<em>Capocesto</em>) nella strada.</p>
+<p>Lasciamo l’airbnb di Zadar (<em>Zara</em>) ed andiamo a quello a Trogir (<em>Traù</em>). Approfitare la giornata per vedere Šibenik (<em>Sebenico</em>), e altri città come Primošten (<em>Capocesto</em>) nella strada. Considerare pure il insediamento archeologico di <a href="http://www.sibenikregion.com/en/cultural-heritage/archaeological-sites/bribirska-glavica">Bribirska glavica</a>.</p>
 <pre><code>Mercoledì 22: Parco Krka
 </code></pre>
 <p>Andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</p>
@@ -139,14 +139,14 @@ Croacia<br>
 <h2 id="pula-pola---">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.pulainfo.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>l’Arena di Pula dove durante l’anno si tengono concerti, rappresentazioni teatrali, eventi internazionali (come il Pola Film Festival)</p>
-<h2 id="isola-krk-veglia---">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.tz-krk.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
+<h2 id="isola-krk-veglia---">Isola Krk (<em>Veglia</em>) <a href="https://it.wikipedia.org/wiki/Veglia_(isola)"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/xETtKCJqf9u"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.krk.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1024722.6086191535!2d14.168500016744877!3d44.81294509850201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47637041428ae45d%3A0xa2f0b329de802341!2sKrk!5e0!3m2!1ses!2sit!4v1527005195294&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Collegata alla terraferma da un ponte. (<a href="https://www.aurea-krk.com/it/isola-di-krk-croazia">+info</a>/<a href="https://www.aurea-krk.com/it/isola-krk-spiagge">spiagge</a>)</p>
-<h3 id="krk-veglia">Krk (<em>Veglia</em>)</h3>
+<h3 id="krk-veglia-">Krk (<em>Veglia</em>) <a href="https://www.tz-krk.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h3>
 <ul>
 <li><a href="https://www.aurea-krk.com/it/citta-di-krk-foto">Krk (<em>Veglia</em>)</a></li>
 </ul>
-<h3 id="vrbnik-verbenico">Vrbnik (<em>Verbenico</em>)</h3>
+<h3 id="vrbnik-verbenico-">Vrbnik (<em>Verbenico</em>) <a href="https://www.vrbnik.hr"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h3>
 <ul>
 <li><a href="https://www.aurea-krk.com/it/vrbnik">Vrbnik (<em>Verbenico</em>)</a></li>
 </ul>
@@ -154,7 +154,7 @@ Croacia<br>
 <p>I castelli della Riviera di Crikvenica… direi che secundario: <a href="https://www.croaziainfo.it/crikvenica-2.html">web#1</a> <a href="https://www.croaziainfo.it/castelli-frankopan-vinodol.html">web#2</a></p>
 <!--&#9;Venerd&#236; 17-->
 <!--&#9;Sabato 18-->
-<h2 id="parco-nazionale-di-plitvička-plitvice--">Parco Nazionale di Plitvička (<em>Plitvice</em>) <a href="https://www.wikiwand.com/it/Parco_nazionale_dei_laghi_di_Plitvice"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/Yb8zdmySw8T2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="parco-nazionale-di-plitvička-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>) <a href="https://www.wikiwand.com/it/Parco_nazionale_dei_laghi_di_Plitvice"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/Yb8zdmySw8T2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://np-plitvicka-jezera.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860146.2853992726!2d14.597713812494545!3d44.91587361685517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47615e6cfed90f3d%3A0x51a8ff8379a5e70!2sParque+Nacional+de+los+Lagos+de+Plitvice!5e0!3m2!1ses!2sit!4v1527005342666&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>I laghi di Plitvice con le bellissime passerelle di legno che costeggiano e attraversano laghi, cascate e grotte… sicuramente se deve planificare bene che fare qui.</p>
 <!--&#9;Domenica 19-->
@@ -166,22 +166,23 @@ Croacia<br>
 <h2 id="zadar-zara---">Zadar (<em>Zara</em>) <a href="https://it.wikipedia.org/wiki/Zara"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/15PgfqAMi7F2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.zadar.travel/it/naslovna"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1456484.6149568427!2d14.496794824393431!3d44.521369334425906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4761fa62d2c0b88f%3A0x12323e1c13f40784!2sZadar%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006349594&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Città storica dal bellissimo centro, con l’organo Marino e il saluto al sole: il tramonto più bello secondo Hitchcock. Le mura di cinta di Zadar è stata inserita nella lista del Patrimonio Mondiale dell’Umanità dell’UNESCO.</p>
-<h4 id="nin">Nin</h4>
-<p>E le saline di Nin</p>
+<h3 id="nin-">Nin <a href="https://www.nin.hr/en"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h3>
+<p>E le <a href="http://www.solananin.hr/en/home/">saline di Nin</a></p>
 <!--&#9;Marted&#236; 21-->
-<h2 id="parco-nazionale-kornati-isole-incoronate--">Parco Nazionale Kornati (<em>Isole Incoronate</em>) <a href="https://it.wikipedia.org/wiki/Isole_Incoronate"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/mZxFh9TDaCP2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="parco-nazionale-kornati-isole-incoronate---">Parco Nazionale Kornati (<em>Isole Incoronate</em>) <a href="https://it.wikipedia.org/wiki/Isole_Incoronate"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/mZxFh9TDaCP2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://np-kornati.hr/en/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1225046.9373018937!2d14.642673435014354!3d44.5073704127867!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1334ba048984aa8f%3A0x1261b787c810d926!2sKornati!5e0!3m2!1ses!2sit!4v1527104856874&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
-<p><a href="http://www.np-kornati.hr/en">web</a></p>
+<p>E le sue <a href="https://croatia.hr/it-IT/esperienze/spiagge/la-spiagge-delle-isole-kornati">spiagge</a>.<br>
+<a href="http://www.np-kornati.hr/en">web</a></p>
 <!--&#9;Mercoled&#236; 22-->
 <h1 id="capitolo-iii-šibenik-krka-e-trogir-1">Capitolo III: Šibenik, Krka e Trogir</h1>
 <h2 id="šibenik-sebenico---">Šibenik (<em>Sebenico</em>) <a href="https://it.wikipedia.org/wiki/Sebenico"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/PfgeDUW5pAL2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="https://www.sibenik-tourism.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1465210.2804199955!2d14.727049456469576!3d44.17124228377455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352615d088d09d%3A0x400ad50862bcc20!2s%C5%A0ibenik%2C+Croacia!5e0!3m2!1ses!2sit!4v1527006825308&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Una delle più antiche città dell’Adriatico Croato, famosa per la Cattedrale di San Giacomo e il ricchissimo programma culturale e di i intrattenimento, con Festival giovani e divertenti e rassegne musicali e teatrali imperdibili. La fortezza di San Nicola di Šibenik è stata inserita nella lista del Patrimonio Mondiale dell’Umanità dell’UNESCO.</p>
-<h2 id="parco-nazionale-krka-cherca--">Parco Nazionale Krka (<em>Cherca</em>) <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="parco-nazionale-krka-cherca---">Parco Nazionale Krka (<em>Cherca</em>) <a href="https://it.wikipedia.org/wiki/Parco_nazionale_della_Cherca"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/U2jjUYUSq532"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.np-krka.hr/en/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462542.6995781155!2d14.632710115597753!3d44.27851461833799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12e1d4d5d0103938!2sParque+nacional+Krka!5e0!3m2!1ses!2sit!4v1527006438560&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Con le sue bellissime cascate, le fortezze, gli edifici storici e tradizionali. Credo conviene informarsi bene su i percorsi, accessi, ecc. Avissano che in Agosto è come Punta Prosciuto…<br>
 [<a href="https://en.wikivoyage.org/wiki/Krka_National_Park">+info</a>] [<a href="http://www.np-krka.hr/en/">+info</a>] [<a href="https://www.tripadvisor.es/Attraction_Review-g2569732-d4604847-Reviews-Krka_National_Park-Sibenik_Knin_County_Dalmatia.html">+info</a>]</p>
-<h2 id="primošten-capocesto--">Primošten (<em>Capocesto</em>) <a href="https://it.wikipedia.org/wiki/Capocesto"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/hm4Rw6FQenG2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></h2>
+<h2 id="primošten-capocesto---">Primošten (<em>Capocesto</em>) <a href="https://it.wikipedia.org/wiki/Capocesto"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/hm4Rw6FQenG2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.tz-primosten.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1751216.6970125996!2d15.357136873191296!3d43.87332051225949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13352285a126b841%3A0xa0444300c8544de0!2sPrimo%C5%A1ten%2C+Croacia!5e0!3m2!1ses!2sit!4v1527007218232&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
 <p>Centro storico raccolto su una penisola.</p>
 <h2 id="trogir-traù---">Trogir (<em>Traù</em>) <a href="https://it.wikipedia.org/wiki/Tra%C3%B9"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/f5W1Y7WFs5C2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.visittrogir.hr"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
@@ -202,7 +203,14 @@ Croacia<br>
 <li><a href="https://feeds.croatia.hr/it/trova-il-tesoro-nascosto/?utm_campaign=IT_FB-IG_brand-april_nautical_2018&amp;utm_medium=cpc&amp;utm_source=Facebook&amp;utm_content=la10-web-int_image-ad2">trova-il-tesoro-nascosto</a></li>
 </ul>
 </li>
-<li>…</li>
+<li><a href="https://croatia.hr/it-IT">https://croatia.hr/it-IT</a></li>
+<li><a href="https://www.croaziainfo.it/">https://www.croaziainfo.it/</a></li>
+<li>stećci:
+<ul>
+<li><a href="https://croatia.hr/it-IT/esperienze/cultura-e-patrimonio/unescogli-stecci-pietre-tombali-medievali">https://croatia.hr/it-IT/esperienze/cultura-e-patrimonio/unescogli-stecci-pietre-tombali-medievali</a></li>
+<li><a href="https://whc.unesco.org/en/list/1504">https://whc.unesco.org/en/list/1504</a></li>
+</ul>
+</li>
 </ul>
 <!--&#10;## KaTeX&#10;&#10;You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):&#10;&#10;The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&#10;&#10;$$&#10;\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.&#10;$$&#10;&#10;&gt; You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).&#10;-->
 
