@@ -67,7 +67,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <pre><code>Lunedì 20: Parco Kornati
 </code></pre>
 <p>Andiamo tutta la giornata al <a href="#parco-nazionale-kornati-isole-incoronate---">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a>, non essendo in weekend forse è meno affollato.</p>
-<pre><code>Martedì 21: Šibenik, Primošten e Traù
+<pre><code>Martedì 21: Šibenik, Primošten e Trogir
 </code></pre>
 <p>Lasciamo l’airbnb di <a href="#zadar-zara---">Zadar (<em>Zara</em>)</a> ed andiamo a quello a <a href="#trogir-tra%C3%B9---">Trogir (<em>Traù</em>)</a>. Approfitare la giornata per vedere <a href="#%C5%A1ibenik-sebenico---">Šibenik (<em>Sebenico</em>)</a>, e altri città come <a href="#primo%C5%A1ten-capocesto---">Primošten (<em>Capocesto</em>)</a> nella strada. Considerare pure il insediamento archeologico di <a href="http://www.sibenikregion.com/en/cultural-heritage/archaeological-sites/bribirska-glavica">Bribirska glavica</a>.</p>
 <pre><code>Mercoledì 22: Parco Krka
