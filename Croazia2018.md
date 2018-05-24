@@ -9,7 +9,7 @@ author: Patito
 <ol>
 <li><a href="#Agenda">Agenda</a></li>
 </ol>
-<h3 id="uagendau"><u>Agenda</u>:</h3>
+<h2 id="agenda">Agenda</h2>
 <ul>
 <li><strong>Mercoledì 15</strong>: al arrivare andiamo ad un airbnb nell’isola di Krk (<em>Veglia</em>), forse a Vrbnik (<em>Verbenico</em>), così vediamo una città quella notte.</li>
 <li><strong>Giovedì 16</strong>: andiamo a passare tutta la giornata al Parco Plitvička (<em>Plitvice</em>), non essendo in weekend forse è meno affollato.</li>
@@ -21,7 +21,6 @@ author: Patito
 <li><strong>Mercoledì 22</strong>: andiamo a passare tutta la giornata al Parco Krka (<em>Cherca</em>), non essendo in weekend forse è meno affollato.</li>
 <li><strong>Giovedì 23</strong>: passiamo la mattina in Trogir (<em>Traù</em>) ed andiamo al aeroporto.</li>
 </ul>
-<hr>
 <h2 id="airbnb">Airbnb</h2>
 <h3 id="capitolo-i-pula-krk-e-plitvička">Capitolo I: Pula, Krk e Plitvička</h3>
 <ul>
