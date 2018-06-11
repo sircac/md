@@ -45,6 +45,14 @@ author: Patito
 </li>
 </ul>
 <h2 id="agenda">Agenda</h2>
+<pre><code>Sabato 11: Roma
+</code></pre>
+<blockquote>
+<p>TRENO Bari (13:14h) -&gt; Roma (17:20h)<br>
+Frecciargento 8314<br>
+<strong>Carrozza</strong>: 1; <strong>Posto</strong>: 7C, 7D<br>
+By <a href="http://www.trenitalia.com/">Trenitalia</a>.</p>
+</blockquote>
 <pre><code>Mercoledì 15: Crikvenica
 </code></pre>
 <blockquote>
@@ -79,6 +87,14 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <blockquote>
 <p>FLY Spalato (15:55h) -&gt; Roma (17:05h)<br>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
+</blockquote>
+<pre><code>Domenica 26: Roma
+</code></pre>
+<blockquote>
+<p>TRENO Roma (18:55h) -&gt; Bari (22:35h)<br>
+Frecciargento 8325<br>
+<strong>Carrozza</strong>: 1; <strong>Posto</strong>: 7C, 7D<br>
+By <a href="http://www.trenitalia.com/">Trenitalia</a>.</p>
 </blockquote>
 <h2 id="airbnb">Airbnb</h2>
 <h3 id="preludio">Preludio:</h3>
