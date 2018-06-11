@@ -81,6 +81,24 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 </blockquote>
 <h2 id="airbnb">Airbnb</h2>
+<h3 id="preludio">Preludio:</h3>
+<ul>
+<li>
+<h4 id="roma">Roma:</h4>
+<a href="https://www.airbnb.es/rooms/21160155"><img src="https://cdn.iconscout.com/public/images/icon/free/png-512/airbnb-3bd5320ce603ad1e-512x512.png" alt="airbnb" width="20" height="20"></a> <a href="https://www.airbnb.es/reservation/itinerary?code=HM9FWB98FJ"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Airbnb_icon-icons.com_66791.png" alt="airbnb" width="20" height="20"></a> <em>Carmen</em><br>
+<img src="https://png.icons8.com/metro/1600/phone.png" alt="TLF" width="20" height="20"> <a href="tel:+393774260204">+39 377 426 0204</a>
+<ul>
+<li>IN: Sabato 11, 15:00</li>
+<li>OUT: Mercoledì 15, 11:00</li>
+</ul>
+<blockquote>
+<p>Via San Quintino, 25<br>
+Roma, Lazio 00185<br>
+Italia<br>
+<a href="https://goo.gl/maps/ymC4sza8znJ2"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a></p>
+</blockquote>
+</li>
+</ul>
 <h3 id="capitolo-i-pula-krk-e-plitvička">Capitolo I: Pula, Krk e Plitvička</h3>
 <ul>
 <li>
