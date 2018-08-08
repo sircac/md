@@ -62,7 +62,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>Al arrivare andiamo al airbnb a <a href="#crikvenica-cirquenizza-">Crikvenica (<em>Cirquenizza</em>)</a>, così vediamo una città quella notte, forse anche abbiamo tempo di un primo bagno.</p>
 <pre><code>Giovedì 16: Parco Plitvička
 </code></pre>
-<p>Andiamo a passare tutta la giornata al <a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a>, non essendo in weekend forse è meno affollato. Qualche ruta circolare (C/H) dalla <a href="https://goo.gl/maps/dwcghj4MN1n"><em>Entrance 1</em></a> fa l’andata in salita ed il ritorno in discesa.</p>
+<p>Andiamo a passare tutta la giornata al <a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a>, non essendo in weekend forse è meno affollato. Qualche ruta circolare (e.g. C/H) dalla <a href="https://goo.gl/maps/dwcghj4MN1n"><em>Entrance 1</em></a> fa l’andata in salita ed il ritorno in discesa.</p>
 <pre><code>Venerdì 17: Isola Krk
 </code></pre>
 <p>Ripossiamo nell’<a href="#isola-krk-veglia---">Isola Krk (<em>Veglia</em>)</a>, cercando spiage e città come <a href="#krk-veglia-">Krk (<em>Veglia</em>)</a> o <a href="#vrbnik-verbenico-">Vrbnik (<em>Verbenico</em>)</a>.</p>
