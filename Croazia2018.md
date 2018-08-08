@@ -62,7 +62,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>Al arrivare andiamo al airbnb a <a href="#crikvenica-cirquenizza-">Crikvenica (<em>Cirquenizza</em>)</a>, così vediamo una città quella notte, forse anche abbiamo tempo di un primo bagno.</p>
 <pre><code>Giovedì 16: Parco Plitvička
 </code></pre>
-<p>Andiamo a passare tutta la giornata al <a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a>, non essendo in weekend forse è meno affollato.</p>
+<p>Andiamo a passare tutta la giornata al <a href="#parco-nazionale-di-plitvi%C4%8Dka-plitvice---">Parco Nazionale di Plitvička (<em>Plitvice</em>)</a>, non essendo in weekend forse è meno affollato. Qualche ruta circolare (C/H) dalla <a href="https://goo.gl/maps/dwcghj4MN1n"><em>Entrance 1</em></a> fa l’andata in salita ed il ritorno in discesa.</p>
 <pre><code>Venerdì 17: Isola Krk
 </code></pre>
 <p>Ripossiamo nell’<a href="#isola-krk-veglia---">Isola Krk (<em>Veglia</em>)</a>, cercando spiage e città come <a href="#krk-veglia-">Krk (<em>Veglia</em>)</a> o <a href="#vrbnik-verbenico-">Vrbnik (<em>Verbenico</em>)</a>.</p>
@@ -74,7 +74,7 @@ By <a href="https://www.croatiaairlines.com/it">Croatia Airlines</a>.</p>
 <p>Partiamo al airbnb a <a href="#zadar-zara---">Zadar (<em>Zara</em>)</a>, nella strada facciamo <a href="#isola-pag-pago---">Isola Pag (<em>Pago</em>)</a> sopratutto, forse fermandoci nella strada in qualche posto, ma cercando di usare quella giornata per vedere tutto <a href="#isola-pag-pago---">Isola Pag (<em>Pago</em>)</a>. <a href="#zadar-zara---">Zadar (<em>Zara</em>)</a> lo vediamo nei giorni che prenottiamo là… non dimenticare il suo tramonto all’organo sul mare.</p>
 <pre><code>Lunedì 20: Parco Kornati
 </code></pre>
-<p>Andiamo tutta la giornata al <a href="#parco-nazionale-kornati-isole-incoronate---">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a>, non essendo in weekend forse è meno affollato.</p>
+<p>Andiamo tutta la giornata al <a href="#parco-nazionale-kornati-isole-incoronate---">Parco Nazionale di Kornati (<em>Isole Incoronate</em>)</a>, non essendo in weekend forse è meno affollato. Si trova nell’<em><a href="http://www.dugiotok.hr/en/attractions-telascica">Isola Dugi Otok</a></em>, e pare che la baia <em>Telascica</em> dentro il parco merita particolarmente (pure per lo snorkling). La logistica dentro della isola  pare sia complicata, ferry fino l’isola [<a href="#zadar-zara---">Zadar (<em>Zara</em>)</a>–<a href="https://it.wikipedia.org/wiki/Sale_(Croazia)">Sali (<em>Sale</em>)</a> per avvicinarsi a <em>Telascica</em>] ed affitti di <em>speedboats/motorboats</em> là pare potrebbero essere disponibili.</p>
 <pre><code>Martedì 21: Šibenik, Primošten e Trogir
 </code></pre>
 <p>Lasciamo l’airbnb di <a href="#zadar-zara---">Zadar (<em>Zara</em>)</a> ed andiamo a quello a <a href="#trogir-tra%C3%B9---">Trogir (<em>Traù</em>)</a>. Approfitare la giornata per vedere <a href="#%C5%A1ibenik-sebenico---">Šibenik (<em>Sebenico</em>)</a>, e altri città come <a href="#primo%C5%A1ten-capocesto---">Primošten (<em>Capocesto</em>)</a> nella strada. Considerare pure il insediamento archeologico di <a href="http://www.sibenikregion.com/en/cultural-heritage/archaeological-sites/bribirska-glavica">Bribirska glavica</a>.</p>
