@@ -169,6 +169,31 @@ Croacia<br>
 </blockquote>
 </li>
 </ul>
+<h2 id="spiagge">Spiagge:</h2>
+<h3 id="pula">Pula:</h3>
+<ul>
+<li><a href="https://goo.gl/maps/XHQtt5pG5mr">Kamenjak</a>: ???</li>
+</ul>
+<h3 id="krk">Krk:</h3>
+<ul>
+<li><a href="https://goo.gl/maps/AtRvxSBQLUz">Soline</a>: ???</li>
+<li><a href="https://goo.gl/maps/dGwjViPxV4T2">Stara Baška</a>: ???</li>
+<li><a href="https://goo.gl/maps/2Lp7eZQF8Xx">Porat</a>: ???</li>
+</ul>
+<h3 id="pag">Pag:</h3>
+<ul>
+<li><a href="https://goo.gl/maps/4s1mPbfFYvN2">Beritnica</a>: 30 minuti a piedi… forse troppo impegnativa</li>
+<li><a href="https://goo.gl/maps/dAwjavx3MAD2">Zrće</a>: ???</li>
+</ul>
+<h3 id="zadar">Zadar:</h3>
+<ul>
+<li><a href="https://goo.gl/maps/La9PJvqVKa32">Bibinje</a>: ???</li>
+<li><a href="https://goo.gl/maps/7QsP7G19krB2">Zaton</a>: ???</li>
+</ul>
+<h3 id="kornati">Kornati:</h3>
+<ul>
+<li><a href="https://goo.gl/maps/hRr6Mg4nSGU2">lojena</a>: con battello</li>
+</ul>
 <h1 id="capitolo-i-pula-krk-e-plitvička-1">Capitolo I: Pula, Krk e Plitvička</h1>
 <h2 id="pula-pola---">Pula (Pola) <a href="https://it.wikipedia.org/wiki/Pola"><img src="https://image.flaticon.com/icons/png/512/49/49360.png" alt="wiki" width="20" height="20"></a> <a href="https://goo.gl/maps/JpTvzAvZkcw"><img src="https://png.icons8.com/color/1600/google-maps.png" alt="map" width="20" height="20"></a> <a href="http://www.pulainfo.hr/it/"><img src="http://newsletter.riverways.eu/files/info_2e59d.png" alt="info" width="20" height="20"></a></h2>
 <!--&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452866.5342620283!2d14.138504740068424!3d44.66591165209288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477cd2de09337b6d%3A0x72324a3a7b4e580d!2sPula%2C+Croacia!5e0!3m2!1ses!2sit!4v1527004927986&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;-->
