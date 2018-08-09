@@ -9,6 +9,7 @@ author: Patito
 <ul>
 <li><a href="#agenda">Agenda</a></li>
 <li><a href="#airbnb">Airbnb</a></li>
+<li><a href="#spiagge">Spiagge</a></li>
 <li>Capitolo I: Pula, Krk e Plitvička
 <ul>
 <li><a href="#pula-pola---">Pula (<em>Pola</em>)</a></li>
