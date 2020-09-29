@@ -1,15 +1,5 @@
 
-#  KM3NeT Document Title
-
-Short introduction.
-
-[TOC]
-
-##  Topic
-
-Content.
-
-##  See alsoReview
+#  KM3NeT Document Review
 
 Notes relative to the documentation for the Dark Room and Test Station procedures.
 
@@ -182,6 +172,6 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDk0MjE2MywtMTAyMzQyNTI1NywtMT
-I1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
+eyJoaXN0b3J5IjpbLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMT
+AyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
 -->
