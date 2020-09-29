@@ -26,7 +26,7 @@ Here
 
 Here
 
-### mail #3
+### mail's #3
 
 ```text
 Dear Paolo,  
@@ -49,9 +49,36 @@ cheers,
 Dorothea
 ```
 
+&darr;
+
+```test
+I saw in the elog about the DAQ/software setup in Catania that we use jpp12 at the site:  
+  
+[https://elog.km3net.de/DU+Integration/737](https://elog.km3net.de/DU+Integration/737)  
+  
+Is this determined via the pairing with the CU version or can we there move to a newer Jpp version?  
+  
+In terms of tests and calibration of the data taken at the test site we will use newer Jpp versions, but of course those tests anyway will then be performed in Lyon, where we have those versions available.  
+  
+Thanks for your help,  
+  
+cheers,  
+Dorothea  
+-----------------------------------------------  
+  
+**Software**
+
+-   CU-Server
+    -   Jpp: 12.1.0
+    -   CU: 9.0.21215.8765
+-   DAQ-Server
+    -   Jpp: 12.1.0
+    -   CU: 9.0.21215.8765
+```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkxOTQyODEsLTEyNTY3NTI3NzQsLT
-IwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbLTcxMjg2MjQxMCwtMTI1Njc1Mjc3NCwtMj
+A3MzMxOTk3OV19
 -->
