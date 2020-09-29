@@ -24,7 +24,29 @@ Here
 
 ### mail #2
 
-Here
+```text
+Dear Daniele, dear Agustin,  
+  
+apologies for being very late with this, stuck in PMT and DOM testing.  
+  
+I forward my message from 28 August for the steps required. The actual calibration/testing has changed some as routines were updated.  
+  
+Some comments still:  
+  
+- A first sanity check of data can be done by using e.g. JRunAnalyser (check rates/ToTs).  
+- For the HV tuning we will need L0 runs (this changed with respect to the documentation) and at least 5 minutes at each HV step  
+- The HV calibration script is almost finished and also available in Jpp, only the automatized upload of the HV settings is still under discussion/missing  
+- For the inter-DOM time calibration a new simplified script exists by Alex C., we for now skip the intra-DOM time calibration in the dark room; most important item is here to ensure that for each DOM we have at least one Laser signal;  
+- For the nanobeacon we are lacking a standard evaluation software for now, Camiel is working on it. The runs to be taken are hoped to be useful for nanobeacon HV tuning  
+- For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in the git repository below  
+- For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in the git repository below  
+  
+https://git.km3net.de/calibration/du-dark-room-testing  
+  
+I can only offer Friday for a discussion in person (vidyo), let me know,  
+cheers,  
+Dorothea
+```
 
 ### mail's #3
 
@@ -79,6 +101,6 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjg2MjQxMCwtMTI1Njc1Mjc3NCwtMj
+eyJoaXN0b3J5IjpbLTk1MzQzMzUxMSwtMTI1Njc1Mjc3NCwtMj
 A3MzMxOTk3OV19
 -->
