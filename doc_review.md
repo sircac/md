@@ -3,6 +3,9 @@
 
 Notes relative to the documentation for the Dark Room and Test Station procedures.
 
+[GitHub pages](https://sircac.github.io/md/doc_review.html)
+[GitHub rep](https://github.com/sircac/md)
+
 [TOC]
 
 ##  Test Station
@@ -172,6 +175,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMT
-AyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
+eyJoaXN0b3J5IjpbMTM3NTc4NTk1MSwtMTMyMjk4NjE1MywxNj
+kwOTQyMTYzLC0xMDIzNDI1MjU3LC0xMjU2NzUyNzc0LC0yMDcz
+MzE5OTc5XX0=
 -->
