@@ -12,6 +12,7 @@ Content.
 ##  See also
 
 * https://link-to-more-info
+* [here](https://link-to-more-info)
 
 
 ## Dorothea's notes
@@ -20,7 +21,67 @@ Here
 
 ### mail #1
 
-Here
+```text
+back from holidays, catching up on pending points!
+
+For the upcoming months, I will be responsible for the DU calibration activities in Caserta.
+
+As I already discussed with Dorothea and Giorgio before the summer break, there is some important preliminary work to do on the local setup in order to be fully ready to start.
+
+The status is:
+
+-   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details
+-   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS).
+-   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are still available
+
+@Agustin: could you please provide some support (and coordination, if possible) for the preparation of the setup? Would you be available for a call in the next days (even this afternoon, if you are available), in order to start planning the next activities?
+
+Of course, we will post all info and updates in this thread.
+
+Dear Daniele,  
+  
+if you are available we can already discuss, I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
+  
+Giorgio can best comment on the actions, the details are so far described in the note:  
+[https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view)  
+  
+I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions.  
+cheers,  
+Dorothea  
+  
+  
+1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?  
+  
+2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets here:  
+[https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u)  
+  
+Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):  
+  
+3) Create Run setup with nominal HV  
+  
+4) Take 30 minutes of data -> Sanity check of dark rates (either via online monitoring or I can devise an analysis check)  
+  
+5) Create Run setups for HV scan (15 runs with HV within +-56V around nominal). Take HV data as described in Bouke's note (we are still refining the amount of data required and also possibly will here switch to L0 data)  
+  
+6) HV calibration following Bouke's script (procedure is being finalized now with Rodri's help)  
+**Deliverable:** Summary files and json file with HV settings uploaded to DB  
+  
+7) Create run setups with tuned HV for the subsequent runs  
+  
+8) Time calibration using Lasers as described by time calibration document (under revision)  
+**Deliverable:** Inter-DOM time calibration -> upload as first nominal calibration to DB  
+  
+9) Take 31 3-minute nanobeacon runs with L0 data and different nanobeacon voltages (scanning from 5V-12.5V in 0.25V steps)  
+**Deliverable:** Good/bad flag for each nanobeacon (+ optimal nanobeacon HV), script for this check is under construction  
+  
+10) Take long runs for stability check  
+  
+11) For at least some runs turn the acoustic emitters on, analyze with Carlo's newest script (I will put it to git)  
+**Deliverable:** Good/bad flag for each acoustic receiver  
+  
+12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
+**Deliverable:** Good/bad flag for each compass
+```
 
 ### mail #2
 
@@ -101,6 +162,6 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzQzMzUxMSwtMTI1Njc1Mjc3NCwtMj
-A3MzMxOTk3OV19
+eyJoaXN0b3J5IjpbLTEwMjM0MjUyNTcsLTEyNTY3NTI3NzQsLT
+IwNzMzMTk5NzldfQ==
 -->
