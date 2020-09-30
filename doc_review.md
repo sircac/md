@@ -95,7 +95,7 @@ Here.
 ### mail #4 (Dorothea)
 
 > To my understanding you still need to take data for the following:  (DU 39)
-> 1) HV tuning (as the replacement DOM needs to be tuned) -> 15 x 8 minutes L0 data = 120 minutes)  
+> 1) HV tuning (as the replacement DOM needs to be tuned) -> 15 x 8 minutes L0 data = 120 minutes
 > 2) laser runs (time calibration) -> 10 minutes L0 & 10 minutes L1 = 20 minutes  
 > 3) nanobeacon runs -> 30 x 3 minutes L0 data = 90 minutes  
 > 4) compass check -> included in any run  
@@ -105,31 +105,9 @@ Here.
 
 &darr;
 
-```test
-I saw in the elog about the DAQ/software setup in Catania that we use jpp12 at the site:  
-  
-[https://elog.km3net.de/DU+Integration/737](https://elog.km3net.de/DU+Integration/737)  
-  
-Is this determined via the pairing with the CU version or can we there move to a newer Jpp version?  
-  
-In terms of tests and calibration of the data taken at the test site we will use newer Jpp versions, but of course those tests anyway will then be performed in Lyon, where we have those versions available.  
-  
-Thanks for your help,  
-  
-cheers,  
-Dorothea  
------------------------------------------------  
-  
-**Software**
-
--   CU-Server
-    -   Jpp: 12.1.0
-    -   CU: 9.0.21215.8765
--   DAQ-Server
-    -   Jpp: 12.1.0
-    -   CU: 9.0.21215.8765
-```
-
+> I saw in the elog about the DAQ/software setup in Catania that we use jpp12 at the site:  
+> [https://elog.km3net.de/DU+Integration/737](https://elog.km3net.de/DU+Integration/737)  
+> Is this determined via the pairing with the CU version or can we there move to a newer Jpp version?  
 
 
 ## GD Documents
@@ -176,11 +154,11 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDE0MTYsLTExMDcxMTAyNzcsLTE5MT
-A3ODc0NjcsMTI5NjY3NTcwMywxODA5OTczMzksLTE2NTU1MzM5
-NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0ODA2LC0xNz
-czMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkxMTUsMTUwNzY3
-MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwtMTc0ODUyMjMwMi
-w4MTQ1MDc0OSwtMTc1NTgyNjIzOCwtMTk2NTcyMDYwNSwtMzA1
-OTY1MTMxXX0=
+eyJoaXN0b3J5IjpbMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMT
+kxMDc4NzQ2NywxMjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUz
+Mzk3MSwxNDE4MjEyMjMyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLT
+E3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTExNSwxNTA3
+NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMz
+AyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC0z
+MDU5NjUxMzFdfQ==
 -->
