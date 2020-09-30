@@ -47,10 +47,13 @@ Here
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
 >  
 >  1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?
+>  
 >  2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets [here](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u).
 >  Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):  
->  3) Create Run setup with nominal HV  
+>  3) Create Run setup with nominal HV
+>  
 >  4) Take 30 minutes of data -> Sanity check of dark rates (either via online monitoring or I can devise an analysis check)
+>  
 >  5) Create Run setups for HV scan (15 runs with HV within +-56V around nominal). Take HV data as described in Bouke's note (we are still refining the amount of data required and also possibly will here switch to L0 data)
 >  6) HV calibration following Bouke's script (procedure is being finalized now with Rodri's help)
 **Deliverable:** Summary files and json file with HV settings uploaded to DB
@@ -134,8 +137,8 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMT
-AxMjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0
-MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOT
-k3OV19
+eyJoaXN0b3J5IjpbMzA0NTkxODk1LC0xMDk0NTY5MjY1LDE1OD
+I2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0xMzIyOTg2
+MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3NTI3Nz
+QsLTIwNzMzMTk5NzldfQ==
 -->
