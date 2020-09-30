@@ -9,6 +9,8 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 
 ## GD Documents
 
+??? > [process 3]():
+* [
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [KM3NeT_CALIB_2015_010-TDR_TimeCalibration_MBouwhuis_v8](https://drive.google.com/file/d/0B-oDhZjfBP59b2FsdDhvVVB3cGc/view) [PDF]
 * [KM3NeT_CALIB_2016_003-HVTuning_ACreusot_v1](https://drive.google.com/file/d/0BxNRfgtIq5GtZHFPNUFjM1Y0Tzg/view) [PDF]
@@ -177,7 +179,7 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDA2NTk4MywtMTc3MzE2MjI3NCwxMz
+eyJoaXN0b3J5IjpbMTA0ODIzMzI5NiwtMTc3MzE2MjI3NCwxMz
 I2MDYyNTY1LC0xMTU4MTc5MTE1LDE1MDc2NzEwNzksMTc1MjY2
 MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIsODE0NTA3NDksLT
 E3NTU4MjYyMzgsLTE5NjU3MjA2MDUsLTMwNTk2NTEzMSwtMTU1
