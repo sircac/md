@@ -12,7 +12,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
 	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* [PDF] [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
+		* [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view) [PDF]
 		* ...
 	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
 		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
@@ -20,11 +20,11 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 	* ...
 * [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
 	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
-		* [DOCX] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view)
-		* [DOC] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://docs.google.com/document/d/1kmU-TJs0EblPeHt8k0_8O5txv2nVOiLMbd-6EG8-XiU/edit)
+		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view) [DOCX]
+		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://docs.google.com/document/d/1kmU-TJs0EblPeHt8k0_8O5txv2nVOiLMbd-6EG8-XiU/edit) [DOC]
 	* [DU calibration in sea](https://drive.google.com/drive/u/1/folders/1j3W5r9W9j8nCSkMFBQH4HAzs8FcgpGVP):
-		* [DOCX] [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view)
-		* [XLSX] [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view?usp=sharing)
+		* [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view) [DOCX]
+		* [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view) [XLSX]
 	* [DU Calibration in darkroom](https://drive.google.com/drive/u/1/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u):
 		* [DOCX] [KM3NeT_CALIB_2018_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view)
 		* [GSheet] [Calibration_Table_DU_Dark_Room_v2](https://docs.google.com/spreadsheets/d/1P4hhQtwg25dboRzYQF2eEeojw2EaDotAN0lf1NbYLCk/edit)
@@ -33,7 +33,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 		* [GSheet] [Calibration_Table_Shore_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1mzSbj8Evrc2di6PMmEPaXwwLwhcgzi9sGCwApuoJDMk/edit)
 		* [GSheet] [Calibration_Table_Test_Station_v1](https://docs.google.com/spreadsheets/d/1dYYWjtsyw9Quy3M7Wz5wPm0TxF_rYflGrlA0f_cwpzU/edit)
 		* [GSheet] [Calibration_Table_Test_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1plFqetxaC9QtS_0qV7Kvz_CMoK3J3e2UnCznx2QIDpU/edit)
-		* 
+		* [XLSX] [Calibration_Table_Test_Station_LNSPort20200204](https://drive.google.com/file/d/1GoXmnZ1B-CNR37-QVfkqMbFm5H48A5VH/view)
 		* ...
 * ...
 
@@ -175,7 +175,7 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjMzMjU1MSwtMTE1ODE3OTExNSwxNT
+eyJoaXN0b3J5IjpbMTI2NjIyOTEzNSwtMTE1ODE3OTExNSwxNT
 A3NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIy
 MzAyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC
 0zMDU5NjUxMzEsLTE1NTMwNTU0MTcsLTEwOTQ1NjkyNjUsMTU4
