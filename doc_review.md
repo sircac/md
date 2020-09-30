@@ -20,7 +20,8 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 	* ...
 * [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
 	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
-		* [DOCX] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114]()
+		* [DOCX] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view)
+		* [DOC] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view)
 * ...
 
 ##  Test Station
@@ -161,11 +162,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg0MDkzNywxNTA3NjcxMDc5LDE3NT
-I2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5
-LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC0zMDU5NjUxMzEsLT
-E1NTMwNTU0MTcsLTEwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMTAx
-MjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0Mj
-E2MywtMTAyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3
-OV19
+eyJoaXN0b3J5IjpbNTE3NTE5NDE2LDE1MDc2NzEwNzksMTc1Mj
+Y2MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIsODE0NTA3NDks
+LTE3NTU4MjYyMzgsLTE5NjU3MjA2MDUsLTMwNTk2NTEzMSwtMT
+U1MzA1NTQxNywtMTA5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEy
+NDE1MjksMTQwNzQ5NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMT
+YzLC0xMDIzNDI1MjU3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5
+XX0=
 -->
