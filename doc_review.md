@@ -34,25 +34,21 @@ Here
 
 ### mail #1
 
-> **Daniele:** 
+**Daniele:** 
 > The status is:
 > -   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
 > -   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
 > -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
-> **Dorothea**:
+
+**Dorothea**:
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
-> Giorgio can best comment on the actions, the details are so far described in the note:  
-[https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view)  
-I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
+> Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
+> I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
 
 
 ```
-  
-Dorothea:  
-cheers,  
-Dorothea  
   
   
 1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?  
@@ -167,7 +163,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTYzNTQzNCwxNDA3NDk1MjE0LC0xMz
+eyJoaXN0b3J5IjpbMTc3NjY3MzQyOCwxNDA3NDk1MjE0LC0xMz
 IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
 NTI3NzQsLTIwNzMzMTk5NzldfQ==
 -->
