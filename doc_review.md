@@ -1,3 +1,4 @@
+<i  class="material-icons">home</i>
 
 #  KM3NeT Document Review
 
@@ -160,7 +161,7 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjAxODEzMywtMTU1MzA1NTQxNywtMT
+eyJoaXN0b3J5IjpbMTYyMDk1NjAzMCwtMTU1MzA1NTQxNywtMT
 A5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEyNDE1MjksMTQwNzQ5
 NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1Mj
 U3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5XX0=
