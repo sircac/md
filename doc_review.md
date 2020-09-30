@@ -29,7 +29,7 @@ Some of the most relevant documents on GD:
 		* [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view) [DOCX]
 		* [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view) [XLSX]
 	* [DU Calibration in darkroom](https://drive.google.com/drive/u/1/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u):
-		* [KM3NeT_CALIB_2018_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
+		* [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 		* [Calibration_Table_DU_Dark_Room_v2](https://docs.google.com/spreadsheets/d/1P4hhQtwg25dboRzYQF2eEeojw2EaDotAN0lf1NbYLCk/edit) [GSheet]
 		* [Calibration_Table_Sea_Infrastructure_v1](https://drive.google.com/file/d/1dTyEhbI8En06f7ewNqSurafRgZfWkeIM/view) [XLSX]
 		* [Calibration_Table_Shore_Station_v1](https://drive.google.com/file/d/1ukzKAcWzIbTCNvi591ZqCG5kJBQrHmOC/view) [XLSX]
@@ -48,7 +48,6 @@ Some of the most relevant documents on GD:
 It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar) content:
 * [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
 * [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
-* [KM3NeT_CALIB_2018 007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 
 
 ##  Test Station
@@ -189,11 +188,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA5NzA4MDUsNzQ4MTYzMjQ2LDYxOT
-I5NDgwNiwtMTc3MzE2MjI3NCwxMzI2MDYyNTY1LC0xMTU4MTc5
-MTE1LDE1MDc2NzEwNzksMTc1MjY2MzkzOSw2MjMwNTY0MjUsLT
-E3NDg1MjIzMDIsODE0NTA3NDksLTE3NTU4MjYyMzgsLTE5NjU3
-MjA2MDUsLTMwNTk2NTEzMSwtMTU1MzA1NTQxNywtMTA5NDU2OT
-I2NSwxNTgyNjc0ODM3LC0xMDEyNDE1MjksMTQwNzQ5NTIxNCwt
-MTMyMjk4NjE1M119
+eyJoaXN0b3J5IjpbNDc3NDgwNDMwLDc0ODE2MzI0Niw2MTkyOT
+Q4MDYsLTE3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTEx
+NSwxNTA3NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNz
+Q4NTIyMzAyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIw
+NjA1LC0zMDU5NjUxMzEsLTE1NTMwNTU0MTcsLTEwOTQ1NjkyNj
+UsMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MDc0OTUyMTQsLTEz
+MjI5ODYxNTNdfQ==
 -->
