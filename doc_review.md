@@ -34,23 +34,23 @@ Here
 
 ### mail #1
 
-**Daniele:** 
+**<u>Daniele</u>:**
 > The status is:
 > -   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
 > -   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
 > -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
-&bnsp;&darr;
-<u>**Dorothea**</u>:
+$~$
+**<u>Dorothea</u>:**
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
 > Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
 
+$~$
+**<u>Dorothea</u>:**
 
-```
-  
-  
+```  
 1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?  
   
 2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets here:  
@@ -163,7 +163,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNTYyMjUzLDE0MDc0OTUyMTQsLTEzMj
-I5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1
-Mjc3NCwtMjA3MzMxOTk3OV19
+eyJoaXN0b3J5IjpbMTE4NjUxMzA4NSwxNDA3NDk1MjE0LC0xMz
+IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
+NTI3NzQsLTIwNzMzMTk5NzldfQ==
 -->
