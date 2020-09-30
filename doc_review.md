@@ -47,7 +47,7 @@ Some of the most relevant documents on GD:
 
 It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar) content:
 * [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
-* [KM3NeT_CALIB_2018_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
+* [KM3NeT_CALIB_2018_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo\_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 
 
 ##  Test Station
@@ -188,11 +188,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MTYzMjQ2LDYxOTI5NDgwNiwtMTc3Mz
-E2MjI3NCwxMzI2MDYyNTY1LC0xMTU4MTc5MTE1LDE1MDc2NzEw
-NzksMTc1MjY2MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIsOD
-E0NTA3NDksLTE3NTU4MjYyMzgsLTE5NjU3MjA2MDUsLTMwNTk2
-NTEzMSwtMTU1MzA1NTQxNywtMTA5NDU2OTI2NSwxNTgyNjc0OD
-M3LC0xMDEyNDE1MjksMTQwNzQ5NTIxNCwtMTMyMjk4NjE1Mywx
-NjkwOTQyMTYzXX0=
+eyJoaXN0b3J5IjpbLTg5MDA1NjQwMiw3NDgxNjMyNDYsNjE5Mj
+k0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkx
+MTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwtMT
+c0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIzOCwtMTk2NTcy
+MDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0xMDk0NTY5Mj
+Y1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0x
+MzIyOTg2MTUzXX0=
 -->
