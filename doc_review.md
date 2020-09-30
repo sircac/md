@@ -11,8 +11,9 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 ## GD Documents
 
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
-* here:
-	* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
+* [Time calibration]:
+	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
+		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
 * here:
 
 ##  Test Station
@@ -153,8 +154,8 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTc4Njk2MywtMTU1MzA1NTQxNywtMT
-A5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEyNDE1MjksMTQwNzQ5
-NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1Mj
-U3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5XX0=
+eyJoaXN0b3J5IjpbMjQ1NDg5NjY5LC0xNTUzMDU1NDE3LC0xMD
+k0NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1
+MjE0LC0xMzIyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNT
+csLTEyNTY3NTI3NzQsLTIwNzMzMTk5NzldfQ==
 -->
