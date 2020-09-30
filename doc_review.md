@@ -41,8 +41,8 @@ Here
 > -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
-
-**Dorothea**:
+&bnsp;&darr;
+<u>**Dorothea**</u>:
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
 > Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
@@ -163,7 +163,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjY3MzQyOCwxNDA3NDk1MjE0LC0xMz
-IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
-NTI3NzQsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbNzQyNTYyMjUzLDE0MDc0OTUyMTQsLTEzMj
+I5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1
+Mjc3NCwtMjA3MzMxOTk3OV19
 -->
