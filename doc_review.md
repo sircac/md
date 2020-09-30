@@ -49,22 +49,31 @@ Here
 >  1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?
 >  
 >  2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets [here](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u).
->  Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):  
+>  
+>  Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):
+>  
 >  3) Create Run setup with nominal HV
 >  
 >  4) Take 30 minutes of data -> Sanity check of dark rates (either via online monitoring or I can devise an analysis check)
 >  
 >  5) Create Run setups for HV scan (15 runs with HV within +-56V around nominal). Take HV data as described in Bouke's note (we are still refining the amount of data required and also possibly will here switch to L0 data)
+>  
 >  6) HV calibration following Bouke's script (procedure is being finalized now with Rodri's help)
 **Deliverable:** Summary files and json file with HV settings uploaded to DB
+>
 > 7) Create run setups with tuned HV for the subsequent runs
+> 
 > 8) Time calibration using Lasers as described by time calibration document (under revision)
 **Deliverable:** Inter-DOM time calibration -> upload as first nominal calibration to DB
+>
 > 9) Take 31 3-minute nanobeacon runs with L0 data and different nanobeacon voltages (scanning from 5V-12.5V in 0.25V steps)  
-**Deliverable:** Good/bad flag for each nanobeacon (+ optimal nanobeacon HV), script for this check is under construction  
+**Deliverable:** Good/bad flag for each nanobeacon (+ optimal nanobeacon HV), script for this check is under construction
+>
 > 10) Take long runs for stability check
+> 
 > 11) For at least some runs turn the acoustic emitters on, analyze with Carlo's newest script (I will put it to git)  
-**Deliverable:** Good/bad flag for each acoustic receiver  
+**Deliverable:** Good/bad flag for each acoustic receiver
+>
 > 12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
 **Deliverable:** Good/bad flag for each compass
 
@@ -137,8 +146,8 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NTkxODk1LC0xMDk0NTY5MjY1LDE1OD
-I2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0xMzIyOTg2
-MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3NTI3Nz
-QsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbLTE1NTMwNTU0MTcsLTEwOTQ1NjkyNjUsMT
+U4MjY3NDgzNywtMTAxMjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5
+ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1Mj
+c3NCwtMjA3MzMxOTk3OV19
 -->
