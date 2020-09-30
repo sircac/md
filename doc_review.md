@@ -10,8 +10,8 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 
 ## GD Documents
 
-[Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM)
-[Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE)
+[km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
+* 
 
 ##  Test Station
 
@@ -151,8 +151,8 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTgwNzQ5OSwtMTU1MzA1NTQxNywtMT
-A5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEyNDE1MjksMTQwNzQ5
-NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1Mj
-U3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5XX0=
+eyJoaXN0b3J5IjpbLTE3Njk2MTAzODEsLTE1NTMwNTU0MTcsLT
+EwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MDc0
+OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQyNT
+I1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
 -->
