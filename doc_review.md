@@ -9,10 +9,6 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 
 ## GD Documents
 
-??? > [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn):
-* [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
-* [KM3NeT_CALIB_2018_007_ATRIUM-323371_v6-LNS_DU_Calibration_DR](https://drive.google.com/file/d/18IBvPSpE4sCmt-Ui1y3Yl0Y2hFsmZhb9/view) [PDF]
-* [ATRIUM-316801-PHASE B_Installation_of_DOMs_in_dark_room](https://drive.google.com/file/d/1JVzFUMYRMdKsbeiKC-RYiAZSjqLzi2cx/view) [DOCX] [French]
 
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [KM3NeT_CALIB_2015_010-TDR_TimeCalibration_MBouwhuis_v8](https://drive.google.com/file/d/0B-oDhZjfBP59b2FsdDhvVVB3cGc/view) [PDF]
@@ -182,11 +178,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5Mjk0ODA2LC0xNzczMTYyMjc0LDEzMj
-YwNjI1NjUsLTExNTgxNzkxMTUsMTUwNzY3MTA3OSwxNzUyNjYz
-OTM5LDYyMzA1NjQyNSwtMTc0ODUyMjMwMiw4MTQ1MDc0OSwtMT
-c1NTgyNjIzOCwtMTk2NTcyMDYwNSwtMzA1OTY1MTMxLC0xNTUz
-MDU1NDE3LC0xMDk0NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0MT
-UyOSwxNDA3NDk1MjE0LC0xMzIyOTg2MTUzLDE2OTA5NDIxNjMs
-LTEwMjM0MjUyNTddfQ==
+eyJoaXN0b3J5IjpbMTc0OTg1MDc5OSw2MTkyOTQ4MDYsLTE3Nz
+MxNjIyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTExNSwxNTA3Njcx
+MDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMzAyLD
+gxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC0zMDU5
+NjUxMzEsLTE1NTMwNTU0MTcsLTEwOTQ1NjkyNjUsMTU4MjY3ND
+gzNywtMTAxMjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMs
+MTY5MDk0MjE2M119
 -->
