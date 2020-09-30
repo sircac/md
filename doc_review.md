@@ -46,19 +46,10 @@ $~$
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
 > Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
-
-$~$
-**<u>Dorothea</u>:**
-
-```  
-1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?  
-  
-2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets here:  
-[https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u)  
-  
-Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):  
-  
-3) Create Run setup with nominal HV  
+>  
+>  1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?
+>  2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets [here](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u).
+>  Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):  3) Create Run setup with nominal HV  
   
 4) Take 30 minutes of data -> Sanity check of dark rates (either via online monitoring or I can devise an analysis check)  
   
@@ -82,6 +73,15 @@ Assuming lasers & emitters are set up and the dark room and test station prepare
   
 12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
 **Deliverable:** Good/bad flag for each compass
+
+$~$
+**<u>Dorothea</u>:**
+
+```  
+
+
+  
+
 ```
 
 ### mail #2
@@ -163,7 +163,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjUxMzA4NSwxNDA3NDk1MjE0LC0xMz
-IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
-NTI3NzQsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbLTE1MjA2NTIzNDUsMTQwNzQ5NTIxNCwtMT
+MyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1MjU3LC0xMjU2
+NzUyNzc0LC0yMDczMzE5OTc5XX0=
 -->
