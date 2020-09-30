@@ -39,7 +39,7 @@ Here
 > -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
-$~$
+&nbsp;
 
 ### mail #2 (Dorothea)
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
@@ -65,7 +65,7 @@ $~$
 > 12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
 **Deliverable:** Good/bad flag for each compass
 
-$~$
+&nbsp;
 
 ### mail #3 (Dorothea)
 
@@ -79,7 +79,7 @@ $~$
 > - For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in the git repository below  
 > - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in [this](https://git.km3net.de/calibration/du-dark-room-testing) git repository 
 
-$
+&nbsp;
 
 ### mail #4 (Dorothea)
 
@@ -134,7 +134,7 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcyOTg1MTMsMTU4MjY3NDgzNywtMT
+eyJoaXN0b3J5IjpbLTEwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMT
 AxMjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0
 MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOT
 k3OV19
