@@ -77,18 +77,11 @@ $~$
 > - For the inter-DOM time calibration a new simplified script exists by Alex C., we for now skip the intra-DOM time calibration in the dark room; most important item is here to ensure that for each DOM we have at least one Laser signal;  
 > - For the nanobeacon we are lacking a standard evaluation software for now, Camiel is working on it. The runs to be taken are hoped to be useful for nanobeacon HV tuning  
 > - For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in the git repository below  
-> - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in the git repository below  
-  
+> - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in [this](https://git.km3net.de/calibration/du-dark-room-testing) git repository 
 
-```text
+$~$
 
-  
-I can only offer Friday for a discussion in person (vidyo), let me know,  
-cheers,  
-Dorothea
-```
-
-### mail's #3
+### mail #4 (Dorothea)
 
 ```text
 Dear Paolo,  
@@ -139,9 +132,9 @@ Dorothea
 ```
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTkxNjkzMywtMTAxMjQxNTI5LDE0MD
+eyJoaXN0b3J5IjpbMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MD
 c0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQy
 NTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
 -->
