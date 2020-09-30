@@ -79,7 +79,7 @@ $~$
 > - For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in the git repository below  
 > - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in [this](https://git.km3net.de/calibration/du-dark-room-testing) git repository 
 
-$~$
+$
 
 ### mail #4 (Dorothea)
 
@@ -134,7 +134,8 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MD
-c0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQy
-NTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3OV19
+eyJoaXN0b3J5IjpbLTEwMTcyOTg1MTMsMTU4MjY3NDgzNywtMT
+AxMjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0
+MjE2MywtMTAyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOT
+k3OV19
 -->
