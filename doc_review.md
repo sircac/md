@@ -1,4 +1,4 @@
-#  KM3NeT Document Review
+#  KM3NeT Documentation Review
 
 Notes relative to the documentation for the Dark Room and Test Station procedures.
 
@@ -188,11 +188,11 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY3NTcwMywxODA5OTczMzksLTE2NT
-U1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0ODA2
-LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkxMTUsMT
-UwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwtMTc0ODUy
-MjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIzOCwtMTk2NTcyMDYwNS
-wtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0xMDk0NTY5MjY1LDE1
-ODI2NzQ4MzddfQ==
+eyJoaXN0b3J5IjpbLTEzMzY2NTg0NzIsMTI5NjY3NTcwMywxOD
+A5OTczMzksLTE2NTU1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMy
+NDYsNjE5Mjk0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLT
+ExNTgxNzkxMTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1
+NjQyNSwtMTc0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIzOC
+wtMTk2NTcyMDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0x
+MDk0NTY5MjY1XX0=
 -->
