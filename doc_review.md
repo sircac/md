@@ -19,6 +19,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 		* ...
 	* ...
 * [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
+	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
 * ...
 
 ##  Test Station
@@ -159,7 +160,7 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mjc3MDg4NiwxNzUyNjYzOTM5LDYyMz
+eyJoaXN0b3J5IjpbMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMz
 A1NjQyNSwtMTc0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIz
 OCwtMTk2NTcyMDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC
 0xMDk0NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3
