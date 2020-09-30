@@ -12,7 +12,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
 	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/file-pdf.svg" height=12pt style="fill: green"> [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
+		* <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/file-pdf.svg" height=12pt style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
 		* ...
 	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
 		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
@@ -159,9 +159,9 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg1Mzc2ODYsLTE3NTU4MjYyMzgsLT
-E5NjU3MjA2MDUsLTMwNTk2NTEzMSwtMTU1MzA1NTQxNywtMTA5
-NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEyNDE1MjksMTQwNzQ5NT
-IxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1MjU3
-LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5XX0=
+eyJoaXN0b3J5IjpbMTg3NDE5Njc3NCwtMTc1NTgyNjIzOCwtMT
+k2NTcyMDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0xMDk0
+NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1Mj
+E0LC0xMzIyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcs
+LTEyNTY3NTI3NzQsLTIwNzMzMTk5NzldfQ==
 -->
