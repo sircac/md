@@ -34,22 +34,16 @@ Here
 
 ### mail #1
 
-```text
+> Here
 
-The status is:
-
+```
+**Daniele:** The status is:
 -   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
 -   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
 -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available
 - jumper(+test box) is damaged, plans about fix it on-going.
-
-@Agustin: could you please provide some support (and coordination, if possible) for the preparation of the setup? Would you be available for a call in the next days (even this afternoon, if you are available), in order to start planning the next activities?
-
-Of course, we will post all info and updates in this thread.
-
-Dear Daniele,  
   
-if you are available we can already discuss, I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
+Dorothea: I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
   
 Giorgio can best comment on the actions, the details are so far described in the note:  
 [https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view)  
@@ -171,7 +165,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ3Mjg4MjMsMTQwNzQ5NTIxNCwtMT
-MyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1MjU3LC0xMjU2
-NzUyNzc0LC0yMDczMzE5OTc5XX0=
+eyJoaXN0b3J5IjpbLTUyODA2NDY4MiwxNDA3NDk1MjE0LC0xMz
+IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
+NTI3NzQsLTIwNzMzMTk5NzldfQ==
 -->
