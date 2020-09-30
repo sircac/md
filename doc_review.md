@@ -12,7 +12,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
 	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/195px-PDF_file_icon.svg.png" height=14pt> [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
+		* [PDF] [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
 		* ...
 	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
 		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
@@ -20,6 +20,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 	* ...
 * [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
 	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
+		* [DOCX] [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114]()
 * ...
 
 ##  Test Station
@@ -160,10 +161,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMz
-A1NjQyNSwtMTc0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIz
-OCwtMTk2NTcyMDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC
-0xMDk0NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3
-NDk1MjE0LC0xMzIyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0Mj
-UyNTcsLTEyNTY3NTI3NzQsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbLTE3MDg0MDkzNywxNTA3NjcxMDc5LDE3NT
+I2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5
+LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC0zMDU5NjUxMzEsLT
+E1NTMwNTU0MTcsLTEwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMTAx
+MjQxNTI5LDE0MDc0OTUyMTQsLTEzMjI5ODYxNTMsMTY5MDk0Mj
+E2MywtMTAyMzQyNTI1NywtMTI1Njc1Mjc3NCwtMjA3MzMxOTk3
+OV19
 -->
