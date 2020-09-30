@@ -32,9 +32,7 @@ Here.
 
 Here
 
-### mail #1
-
-**<u>Daniele</u>:**
+### mail #1 (Daniele)
 > The status is:
 > -   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
 > -   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
@@ -42,7 +40,8 @@ Here
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
 $~$
-**<u>Dorothea</u>:**
+
+### mail #2 (Dorothea)
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
 > Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
@@ -69,14 +68,6 @@ $~$
 $~$
 **<u>Dorothea</u>:**
 
-```  
-
-
-  
-
-```
-
-### mail #2
 
 ```text
 Dear Daniele, dear Agustin,  
@@ -155,7 +146,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0xMz
-IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
-NTI3NzQsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbNjUzOTUyMzkxLC0xMDEyNDE1MjksMTQwNz
+Q5NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1
+MjU3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5XX0=
 -->
