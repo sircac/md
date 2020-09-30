@@ -1,9 +1,7 @@
 #  KM3NeT Document Review
 
 Notes relative to the documentation for the Dark Room and Test Station procedures.
-
-* [GitHub pages](https://sircac.github.io/md/doc_review.html)
-* [GitHub repo](https://github.com/sircac/md)
+> GitHub: [pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
 
 [TOC]
 
@@ -186,13 +184,13 @@ Dorothea
 ```
 
 
-> Last update on [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NDgwNDMwLDc0ODE2MzI0Niw2MTkyOT
-Q4MDYsLTE3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTEx
-NSwxNTA3NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNz
-Q4NTIyMzAyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIw
-NjA1LC0zMDU5NjUxMzEsLTE1NTMwNTU0MTcsLTEwOTQ1NjkyNj
-UsMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MDc0OTUyMTQsLTEz
-MjI5ODYxNTNdfQ==
+eyJoaXN0b3J5IjpbMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mj
+k0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkx
+MTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwtMT
+c0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIzOCwtMTk2NTcy
+MDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0xMDk0NTY5Mj
+Y1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0x
+MzIyOTg2MTUzXX0=
 -->
