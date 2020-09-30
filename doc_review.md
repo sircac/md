@@ -38,9 +38,10 @@ Here
 
 The status is:
 
--   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details (Emidio should have installed the DAQ a while ago, but not confirmed if Jpp is the latest 13)
--   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS).
--   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are still available
+-   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
+-   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
+-   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available
+- jumper(+test box) is damaged, plans about fix it on-going.
 
 @Agustin: could you please provide some support (and coordination, if possible) for the preparation of the setup? Would you be available for a call in the next days (even this afternoon, if you are available), in order to start planning the next activities?
 
@@ -170,7 +171,7 @@ Dorothea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQ0MzEwOSwxNDA3NDk1MjE0LC0xMz
-IyOTg2MTUzLDE2OTA5NDIxNjMsLTEwMjM0MjUyNTcsLTEyNTY3
-NTI3NzQsLTIwNzMzMTk5NzldfQ==
+eyJoaXN0b3J5IjpbLTEyMjQ3Mjg4MjMsMTQwNzQ5NTIxNCwtMT
+MyMjk4NjE1MywxNjkwOTQyMTYzLC0xMDIzNDI1MjU3LC0xMjU2
+NzUyNzc0LC0yMDczMzE5OTc5XX0=
 -->
