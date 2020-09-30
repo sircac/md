@@ -8,9 +8,9 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 - [Dorothea's notes](#dorotheas-notes)
 - [GD Documents](#gd-documents)
 
-> GitHub: | [pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
+> * [GitHub: | [ pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
 
-&nbsp;
+
 
 ##  Test Station
 
@@ -22,8 +22,6 @@ Here.
 
 ##  Dark Room
 
-Here.
-
 ### GD documentation
 
 Here.
@@ -33,21 +31,22 @@ Here.
 
 ### mail #1 (Daniele)
 > The status is:
-> -   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
+-   the shore station hardware is the old one used for the calibration of ARCA-DU1, ARCA-DU2 and ARCA-DU3. Both Antonio and Tommaso know it in details.
 > -   the two servers (CU and DAQ) have been formatted and re-installed with AIACE by Emidio Giorgio (LNS). (not confirmed if Jpp is the latest 13)
-> -   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
+> 
+-   all the "old stuff" (optical fiber splitter, acoustic emitters etc.) are available.
 > - jumper(+test box) is damaged, plans about fix it on-going.
 
 &nbsp;
 
 ### mail #2 (Dorothea)
 > I am updating some of the previous procedures, so that we can have a simplified routine for the testers, who will not necessarily be expected to be experts.  
-> Giorgio can best comment on the actions, the details are so far described in this [note](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view).
+>Giorgio can best comment on the actions, the details are so far described in th [note).
 > I see the steps to be performed in the testing/calibration as listed below, let me know if you already have comments/questions. 
->  
+>    
 >  1) Hardware setup (servers&DAQ/lasers/acoustic emitters): I understand that this is already in good hands or is there information missing on the exact setting up (details are provided in the note above)?
 >  
->  2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets [here](https://drive.google.com/drive/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u).
+>  2) Time calibration of the WRS network: To my understanding a lot of the description in the document covers 1-time measurements, which are not necessary for each DU. The results are so far archived in excel sheets [[her).
 >  
 >  Assuming lasers & emitters are set up and the dark room and test station prepared for data taking I see the following order of tests and deliverables to be performed by the tester (who is that in Caserta?):
 >  
@@ -59,21 +58,15 @@ Here.
 >  
 >  6) HV calibration following Bouke's script (procedure is being finalized now with Rodri's help)
 **Deliverable:** Summary files and json file with HV settings uploaded to DB
->
-> 7) Create run setups with tuned HV for the subsequent runs
-> 
+>) Create run setups with tuned HV for the subsequent runs
+ 
 > 8) Time calibration using Lasers as described by time calibration document (under revision)
 **Deliverable:** Inter-DOM time calibration -> upload as first nominal calibration to DB
->
-> 9) Take 31 3-minute nanobeacon runs with L0 data and different nanobeacon voltages (scanning from 5V-12.5V in 0.25V steps)  
-**Deliverable:** Good/bad flag for each nanobeacon (+ optimal nanobeacon HV), script for this check is under construction
->
-> 10) Take long runs for stability check
-> 
+>) Take 31 3-minute nanobeacon runs with L0 data and different nanobeacon voltages (scanning from 5V-12.5V in 0.25V steps)  
+**Deliverable:** Good/bad flag for each nanobeacon (+ optimal nanobeacon HV), script for this check is under construction 10) Take long runs for stability check
+ 
 > 11) For at least some runs turn the acoustic emitters on, analyze with Carlo's newest script (I will put it to git)  
-**Deliverable:** Good/bad flag for each acoustic receiver
->
-> 12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
+**Deliverable:** Good/bad flag for each acoustic receiver 12) Compass measurements: For all runs compass data should be in the DB. A new script by Bryan is available to evaluate those and print a concise summary of the amount of observed failures  
 **Deliverable:** Good/bad flag for each compass
 
 &nbsp;
@@ -82,32 +75,32 @@ Here.
 
 > The actual calibration/testing has changed some as routines were updated.  
   Some comments still:  
-> - A first sanity check of data can be done by using e.g. JRunAnalyser (check rates/ToTs).  
+>- A first sanity check of data can be done by using e.g. JRunAnalyser (check rates/ToTs).  
 > - For the HV tuning we will need L0 runs (this changed with respect to the documentation) and at least 5 minutes at each HV step  
-> - The HV calibration script is almost finished and also available in Jpp, only the automatized upload of the HV settings is still under discussion/missing  
+> -ortha
+
+ The HV calibration script is almost finished and also available in Jpp, only the automatized upload of the HV settings is still under discussion/missing  
 > - For the inter-DOM time calibration a new simplified script exists by Alex C., we for now skip the intra-DOM time calibration in the dark room; most important item is here to ensure that for each DOM we have at least one Laser signal;  
 > - For the nanobeacon we are lacking a standard evaluation software for now, Camiel is working on it. The runs to be taken are hoped to be useful for nanobeacon HV tuning  
-> - For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in the git repository below  
-> - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in [this](https://git.km3net.de/calibration/du-dark-room-testing) git repository 
+> - For the acoustic devices (piezo/hydrophone) testing there exists a new routine for the check in th - For the compass check Bryan developed a new test routine, which immediately provides feedback on the functioning, the routine is also in [thishttps://git.km3net.de/calibration/du-dark-room-testing) git repository 
 
 &nbsp;
 
 ### mail #4 (Dorothea)
 
 > To my understanding you still need to take data for the following:  (DU 39)
-> 1) HV tuning (as the replacement DOM needs to be tuned) -> 15 x 8 minutes L0 data = 120 minutes
-> 2) laser runs (time calibration) -> 10 minutes L0 & 10 minutes L1 = 20 minutes  
+> 1) HV tuning (as the replacement DOM needs to be tuned) -> 15 x 8 minutes L0 data = 120 minutes 2) laser runs (time calibration) -> 10 minutes L0 & 10 minutes L1 = 20 minutes  
 > 3) nanobeacon runs -> 30 x 3 minutes L0 data = 90 minutes  
 > 4) compass check -> included in any run  
 > 5) piezo check -> included in any run >5min with acoustic emitters on  
 >   
-> Please note that we will need L0 data for the HV tuning (for DU 38 we have only L1 data, which provides far too little statistics and in addition a bias), we will adjust the descriptions accordingly.  
+> Please note that w wilneed L0 data for the HV tuning (for DU 38 we have only L1 data, which provides far too little statistics and in addition a bias), we will adjust the descriptions accordingly.  
 
 &darr;
 
 > I saw in the elog about the DAQ/software setup in Catania that we use jpp12 at the site:  
-> [https://elog.km3net.de/DU+Integration/737](https://elog.km3net.de/DU+Integration/737)  
-> Is this determined via the pairing with the CU version or can we there move to a newer Jpp version?  
+>[https://elog.km3net.de/DU+Integration/737](https://elog.km3net.de/DU+Integration/737)  
+>Is this determined via the pairing with the CU version or can we there move to a newer Jpp version?  
 
 
 ## GD Documents
@@ -152,13 +145,22 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 * [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
 * [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 
-
+  
+In terms of tests and calibration of the data taken at the test site we will use newerversions bt  orsethoeess anay ill en beerforme in onhere e have toseverions available. 
+  anksforu help 
+ cheesDorothea 
+  
+  
+*Sotwre
+ CServe  -   ..
+    -  C:..11585- A-erve  -   p:..
+    -  C:..11585 ritten with tacdit](https://staedi.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMT
-kxMDc4NzQ2NywxMjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUz
-Mzk3MSwxNDE4MjEyMjMyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLT
-E3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTExNSwxNTA3
-NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMz
-AyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0xOTY1NzIwNjA1LC0z
-MDU5NjUxMzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzYxNTY0MTMsMTE4NDkwMjUxMCwtMT
+EwNzExMDI3NywtMTkxMDc4NzQ2NywxMjk2Njc1NzAzLDE4MDk5
+NzMzOSwtMTY1NTUzMzk3MSwxNDE4MjEyMjMyLDc0ODE2MzI0Ni
+w2MTkyOTQ4MDYsLTE3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMTE1
+ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2ND
+I1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC0x
+OTY1NzIwNjA1XX0=
 -->
