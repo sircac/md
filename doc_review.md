@@ -21,7 +21,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 * [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
 	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
 		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view) [DOCX]
-		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://docs.google.com/document/d/1kmU-TJs0EblPeHt8k0_8O5txv2nVOiLMbd-6EG8-XiU/edit) [DOC]
+		* ...
 	* [DU calibration in sea](https://drive.google.com/drive/u/1/folders/1j3W5r9W9j8nCSkMFBQH4HAzs8FcgpGVP):
 		* [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view) [DOCX]
 		* [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view) [XLSX]
@@ -176,11 +176,11 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMxNjIyNzQsMTMyNjA2MjU2NSwtMT
-E1ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2NjM5MzksNjIzMDU2
-NDI1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5LC0xNzU1ODI2MjM4LC
-0xOTY1NzIwNjA1LC0zMDU5NjUxMzEsLTE1NTMwNTU0MTcsLTEw
-OTQ1NjkyNjUsMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0MDc0OT
-UyMTQsLTEzMjI5ODYxNTMsMTY5MDk0MjE2MywtMTAyMzQyNTI1
-NywtMTI1Njc1Mjc3NF19
+eyJoaXN0b3J5IjpbMTgwMTcxOTIxNSwtMTc3MzE2MjI3NCwxMz
+I2MDYyNTY1LC0xMTU4MTc5MTE1LDE1MDc2NzEwNzksMTc1MjY2
+MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIsODE0NTA3NDksLT
+E3NTU4MjYyMzgsLTE5NjU3MjA2MDUsLTMwNTk2NTEzMSwtMTU1
+MzA1NTQxNywtMTA5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEyND
+E1MjksMTQwNzQ5NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMTYz
+LC0xMDIzNDI1MjU3XX0=
 -->
