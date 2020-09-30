@@ -3,49 +3,6 @@
 Notes relative to the documentation for the Dark Room and Test Station procedures.
 > GitHub: [pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
 
-[TOC]
-
-## GD Documents
-Some of the most relevant documents on GD:
-
-[km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
-* [KM3NeT_CALIB_2015_010-TDR_TimeCalibration_MBouwhuis_v8](https://drive.google.com/file/d/0B-oDhZjfBP59b2FsdDhvVVB3cGc/view) [PDF]
-* [KM3NeT_CALIB_2016_003-HVTuning_ACreusot_v1](https://drive.google.com/file/d/0BxNRfgtIq5GtZHFPNUFjM1Y0Tzg/view) [PDF]
-* [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
-	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view) [PDF]
-		* ...
-	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
-		* ...
-	* ...
-* [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
-	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
-		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view) [DOCX]
-		* ...
-	* [DU calibration in sea](https://drive.google.com/drive/u/1/folders/1j3W5r9W9j8nCSkMFBQH4HAzs8FcgpGVP):
-		* [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view) [DOCX]
-		* [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view) [XLSX]
-	* [DU Calibration in darkroom](https://drive.google.com/drive/u/1/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u):
-		* [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
-		* [Calibration_Table_DU_Dark_Room_v2](https://docs.google.com/spreadsheets/d/1P4hhQtwg25dboRzYQF2eEeojw2EaDotAN0lf1NbYLCk/edit) [GSheet]
-		* [Calibration_Table_Sea_Infrastructure_v1](https://drive.google.com/file/d/1dTyEhbI8En06f7ewNqSurafRgZfWkeIM/view) [XLSX]
-		* [Calibration_Table_Shore_Station_v1](https://drive.google.com/file/d/1ukzKAcWzIbTCNvi591ZqCG5kJBQrHmOC/view) [XLSX]
-		* [Calibration_Table_Shore_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1mzSbj8Evrc2di6PMmEPaXwwLwhcgzi9sGCwApuoJDMk/edit) [GSheet]
-		* [Calibration_Table_Test_Station_v1](https://docs.google.com/spreadsheets/d/1dYYWjtsyw9Quy3M7Wz5wPm0TxF_rYflGrlA0f_cwpzU/edit) [GSheet]
-		* [Calibration_Table_Test_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1plFqetxaC9QtS_0qV7Kvz_CMoK3J3e2UnCznx2QIDpU/edit) [GSheet]
-		* [Calibration_Table_Test_Station_LNSPort20200204](https://drive.google.com/file/d/1GoXmnZ1B-CNR37-QVfkqMbFm5H48A5VH/view) [XLSX]
-		* ...
-* ...
-
-??? > [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn):
-* [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
-* [KM3NeT_CALIB_2018_007_ATRIUM-323371_v6-LNS_DU_Calibration_DR](https://drive.google.com/file/d/18IBvPSpE4sCmt-Ui1y3Yl0Y2hFsmZhb9/view) [PDF]
-* [ATRIUM-316801-PHASE B_Installation_of_DOMs_in_dark_room](https://drive.google.com/file/d/1JVzFUMYRMdKsbeiKC-RYiAZSjqLzi2cx/view) [DOCX] [French]
-
-It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar) content:
-* [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
-* [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 
 
 ##  Test Station
@@ -64,13 +21,8 @@ Here.
 
 Here.
 
-* https://link-to-more-info
-* [here](https://link-to-more-infowww.google.es)
-
 
 ## Dorothea's notes
-
-Here
 
 ### mail #1 (Daniele)
 > The status is:
@@ -185,12 +137,55 @@ Dorothea
 
 
 
+## GD Documents
+Some of the most relevant documents on GD:
+
+[km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
+* [KM3NeT_CALIB_2015_010-TDR_TimeCalibration_MBouwhuis_v8](https://drive.google.com/file/d/0B-oDhZjfBP59b2FsdDhvVVB3cGc/view) [PDF]
+* [KM3NeT_CALIB_2016_003-HVTuning_ACreusot_v1](https://drive.google.com/file/d/0BxNRfgtIq5GtZHFPNUFjM1Y0Tzg/view) [PDF]
+* [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
+	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
+		* [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view) [PDF]
+		* ...
+	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
+		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
+		* ...
+	* ...
+* [DU Test and Calibration](https://drive.google.com/drive/u/1/folders/1cDliH3iQObup8gbx7k83qf6IBDm3u_p-):
+	* [Shore Station Calibrations](https://drive.google.com/drive/u/1/folders/1YjWpbj1IRoPkcZ1ka39hOrt8-5CPK4mh):
+		* [KM3NeT_CALIB_2018_016-LNS_ARCA_Shore_Station Calibration_20181114](https://drive.google.com/file/d/1Bp2yudwQP9MPsFlp8-XV7YwaO3c2g-2T/view) [DOCX]
+		* ...
+	* [DU calibration in sea](https://drive.google.com/drive/u/1/folders/1j3W5r9W9j8nCSkMFBQH4HAzs8FcgpGVP):
+		* [KM3NeT_CALIB_2018_017-LNS_DU_Calibation-in_water-v2](https://drive.google.com/file/d/1zKcRlaWFVVp-MqZND6JGkhVvSK2JeJ0U/view) [DOCX]
+		* [Calibration_Table_DU_insitu_v1](https://drive.google.com/file/d/15Agl6v4p6vcCB2UUj8ITnTt0OLCIWowb/view) [XLSX]
+	* [DU Calibration in darkroom](https://drive.google.com/drive/u/1/folders/1GauYUdbD73NC1Z7hgcRqZlbxfEpNjQ4u):
+		* [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
+		* [Calibration_Table_DU_Dark_Room_v2](https://docs.google.com/spreadsheets/d/1P4hhQtwg25dboRzYQF2eEeojw2EaDotAN0lf1NbYLCk/edit) [GSheet]
+		* [Calibration_Table_Sea_Infrastructure_v1](https://drive.google.com/file/d/1dTyEhbI8En06f7ewNqSurafRgZfWkeIM/view) [XLSX]
+		* [Calibration_Table_Shore_Station_v1](https://drive.google.com/file/d/1ukzKAcWzIbTCNvi591ZqCG5kJBQrHmOC/view) [XLSX]
+		* [Calibration_Table_Shore_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1mzSbj8Evrc2di6PMmEPaXwwLwhcgzi9sGCwApuoJDMk/edit) [GSheet]
+		* [Calibration_Table_Test_Station_v1](https://docs.google.com/spreadsheets/d/1dYYWjtsyw9Quy3M7Wz5wPm0TxF_rYflGrlA0f_cwpzU/edit) [GSheet]
+		* [Calibration_Table_Test_Station_v1_AE_2018_11](https://docs.google.com/spreadsheets/d/1plFqetxaC9QtS_0qV7Kvz_CMoK3J3e2UnCznx2QIDpU/edit) [GSheet]
+		* [Calibration_Table_Test_Station_LNSPort20200204](https://drive.google.com/file/d/1GoXmnZ1B-CNR37-QVfkqMbFm5H48A5VH/view) [XLSX]
+		* ...
+* ...
+
+??? > [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn):
+* [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
+* [KM3NeT_CALIB_2018_007_ATRIUM-323371_v6-LNS_DU_Calibration_DR](https://drive.google.com/file/d/18IBvPSpE4sCmt-Ui1y3Yl0Y2hFsmZhb9/view) [PDF]
+* [ATRIUM-316801-PHASE B_Installation_of_DOMs_in_dark_room](https://drive.google.com/file/d/1JVzFUMYRMdKsbeiKC-RYiAZSjqLzi2cx/view) [DOCX] [French]
+
+It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar) content:
+* [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
+* [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mj
-k0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkx
-MTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwtMT
-c0ODUyMjMwMiw4MTQ1MDc0OSwtMTc1NTgyNjIzOCwtMTk2NTcy
-MDYwNSwtMzA1OTY1MTMxLC0xNTUzMDU1NDE3LC0xMDk0NTY5Mj
-Y1LDE1ODI2NzQ4MzcsLTEwMTI0MTUyOSwxNDA3NDk1MjE0LC0x
-MzIyOTg2MTUzXX0=
+eyJoaXN0b3J5IjpbMTAzNTg0MjMyNSwxNDE4MjEyMjMyLDc0OD
+E2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNjIyNzQsMTMyNjA2MjU2
+NSwtMTE1ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2NjM5MzksNj
+IzMDU2NDI1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5LC0xNzU1ODI2
+MjM4LC0xOTY1NzIwNjA1LC0zMDU5NjUxMzEsLTE1NTMwNTU0MT
+csLTEwOTQ1NjkyNjUsMTU4MjY3NDgzNywtMTAxMjQxNTI5LDE0
+MDc0OTUyMTRdfQ==
 -->
