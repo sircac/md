@@ -12,7 +12,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 [km3net](https://drive.google.com/drive/u/1/folders/0BwpZkFK4qtbyd2k4ZGpPeDlETVE) > [Detector Construction and Operation (DET)](https://drive.google.com/drive/u/1/folders/0B6CcXapUNLNLc1hDek1VNTRXemM) > [Calibration (CALIB)](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59d2JrSmV0Z05vdVE):
 * [Time calibration](https://drive.google.com/drive/u/1/folders/0B-oDhZjfBP59TUtqTGxMTE9wcG8):
 	* [TDR Time Calibration](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
-		* <svg><use xlink:href="fa-brands.svg#facebook"></use></svg> [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
+		* <svg><use xlink:href="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/webfonts/fa-brands-400.svg#facebook"></use></svg> [KM3NeT_CALIB_2016_005-DU_TimeCalibration_Procedure_MBouwhuis_v3](https://drive.google.com/file/d/0B7wtVGi6XbRXN3A4Z0djSlk5LW8/view)
 		* ...
 	* [White Rabbit System for MEOC and JB asymmetry](https://drive.google.com/drive/u/1/folders/1SD0zdDe_zZ-u2POGRsz9S84olIqT4cCH):
 		* [ARCA JB Calibration Temporary Documents](https://drive.google.com/drive/u/1/folders/1HP4rDWcljWgT7PVNX9qI4qYBcoNMw29P)
@@ -159,9 +159,9 @@ Dorothea
 
 > Last update on [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzU5ODM4NywtMzA1OTY1MTMxLC0xNT
-UzMDU1NDE3LC0xMDk0NTY5MjY1LDE1ODI2NzQ4MzcsLTEwMTI0
-MTUyOSwxNDA3NDk1MjE0LC0xMzIyOTg2MTUzLDE2OTA5NDIxNj
-MsLTEwMjM0MjUyNTcsLTEyNTY3NTI3NzQsLTIwNzMzMTk5Nzld
-fQ==
+eyJoaXN0b3J5IjpbLTE5NjU3MjA2MDUsLTMwNTk2NTEzMSwtMT
+U1MzA1NTQxNywtMTA5NDU2OTI2NSwxNTgyNjc0ODM3LC0xMDEy
+NDE1MjksMTQwNzQ5NTIxNCwtMTMyMjk4NjE1MywxNjkwOTQyMT
+YzLC0xMDIzNDI1MjU3LC0xMjU2NzUyNzc0LC0yMDczMzE5OTc5
+XX0=
 -->
