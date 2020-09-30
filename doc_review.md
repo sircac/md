@@ -5,7 +5,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 ### <u>TOC</u>
 - [Test Station](#test-station)
 - [Dark Room](#dark-room)
-- [Dorothea's notes](#dorothea's-notes)
+- [Dorothea's notes](##dorothea-s-notes)
 - [GD Documents](#gd-documents)
 
 > GitHub: | [pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
@@ -188,7 +188,7 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY2NTg0NzIsMTI5NjY3NTcwMywxOD
+eyJoaXN0b3J5IjpbLTE5MTA3ODc0NjcsMTI5NjY3NTcwMywxOD
 A5OTczMzksLTE2NTU1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMy
 NDYsNjE5Mjk0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLT
 ExNTgxNzkxMTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1
