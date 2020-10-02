@@ -23,7 +23,9 @@ Here
 
 An schematic description of the DR2SEA can be found [here](http://www.ba.infn.it/agustin/cal/SCDC.pdf) and the latest DR2SEA tabel [here](http://www.ba.infn.it/agustin/cal/DR2SEA.xlsx).
 
-The study of the WR behaviour in ORCA can be found on [E-LOG:Calibration/240](https://elog.km3net.de/Calibration/240).
+WR study in ORCA can be found on [E-LOG:Calibration/240](https://elog.km3net.de/Calibration/240).
+
+D_ARCA003 detx archeology: [E-LOG:Calibration/268](https://elog.km3net.de/Calibration/268)
 
 
 ##  Test Station
@@ -168,7 +170,7 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI2MTAxNjYsMTQzOTg5MTQ3MCwxNz
+eyJoaXN0b3J5IjpbLTExNzA4NTg5OTAsMTQzOTg5MTQ3MCwxNz
 c2OTI0MjAzLC0xMDkyODI5ODgwLC0xMzc2MTU2NDEzLDExODQ5
 MDI1MTAsLTExMDcxMTAyNzcsLTE5MTA3ODc0NjcsMTI5NjY3NT
 cwMywxODA5OTczMzksLTE2NTU1MzM5NzEsMTQxODIxMjIzMiw3
