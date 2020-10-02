@@ -6,6 +6,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 
 ### <u>TOC</u>
 - [Useful links](#useful-links)
+- [GD Documents](#gd-documents)
 	&mdash;
 - [Test Station](#test-station)
 - [Dark Room](#dark-room)
@@ -175,11 +176,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTk0NzA4NCwtMTUyODcxNzkzMiwyMT
-EwMzg3NDUxLDE0Mzk4OTE0NzAsMTc3NjkyNDIwMywtMTA5Mjgy
-OTg4MCwtMTM3NjE1NjQxMywxMTg0OTAyNTEwLC0xMTA3MTEwMj
-c3LC0xOTEwNzg3NDY3LDEyOTY2NzU3MDMsMTgwOTk3MzM5LC0x
-NjU1NTMzOTcxLDE0MTgyMTIyMzIsNzQ4MTYzMjQ2LDYxOTI5ND
-gwNiwtMTc3MzE2MjI3NCwxMzI2MDYyNTY1LC0xMTU4MTc5MTE1
-LDE1MDc2NzEwNzldfQ==
+eyJoaXN0b3J5IjpbLTk1NTg4MDgwLC0xNTI4NzE3OTMyLDIxMT
+AzODc0NTEsMTQzOTg5MTQ3MCwxNzc2OTI0MjAzLC0xMDkyODI5
+ODgwLC0xMzc2MTU2NDEzLDExODQ5MDI1MTAsLTExMDcxMTAyNz
+csLTE5MTA3ODc0NjcsMTI5NjY3NTcwMywxODA5OTczMzksLTE2
+NTU1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0OD
+A2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkxMTUs
+MTUwNzY3MTA3OV19
 -->
