@@ -20,7 +20,8 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 
 ### DB
 * [DB web](http://km3netdbweb.in2p3.fr)
-* 
+* [detectors.txt](https://km3netdbweb.in2p3.fr/streamds/detectors.txt)
+* [runs.txt](https://km3netdbweb.in2p3.fr/streamds/runs.txt?detid=D_ORCA004)
 
 ### DR2SEA
 * [SCDC.pdf](http://www.ba.infn.it/agustin/cal/SCDC.pdf)
@@ -172,7 +173,7 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjYxNDExNzAsMjExMDM4NzQ1MSwxND
+eyJoaXN0b3J5IjpbLTE1Mjg3MTc5MzIsMjExMDM4NzQ1MSwxND
 M5ODkxNDcwLDE3NzY5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYx
 NTY0MTMsMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMTkxMDc4Nz
 Q2NywxMjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwx
