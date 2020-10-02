@@ -33,7 +33,7 @@ Here.
 
 An schematic description of the DR2SEA can be found [here](http://www.ba.infn.it/agustin/cal/SCDC.pdf) and the latest DR2SEA tabel [here](http://www.ba.infn.it/agustin/cal/DR2SEA.xlsx).
 
-
+The study of the WR behaviour in ORCA can be found on E-LOG:Calibra
 
 
 ## Dorothea's notes
@@ -161,7 +161,7 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTI2NTg5OCwxNDM5ODkxNDcwLDE3Nz
+eyJoaXN0b3J5IjpbMTg2MzI3MDM3OCwxNDM5ODkxNDcwLDE3Nz
 Y5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYxNTY0MTMsMTE4NDkw
 MjUxMCwtMTEwNzExMDI3NywtMTkxMDc4NzQ2NywxMjk2Njc1Nz
 AzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwxNDE4MjEyMjMyLDc0
