@@ -19,16 +19,13 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 ## Useful links
 
 ### DB
-
 Here
 
 ### DR2SEA
-
 * [SCDC.pdf](http://www.ba.infn.it/agustin/cal/SCDC.pdf)
 * [DR2SEA.xlsx](http://www.ba.infn.it/agustin/cal/DR2SEA.xlsx)
 
 ### E-LOGs
-
 * WR study in ORCA: [E-LOG:Calibration/240](https://elog.km3net.de/Calibration/240).
 * D_ARCA003 detx archeology: [E-LOG:Calibration/268](https://elog.km3net.de/Calibration/268)
 
@@ -174,11 +171,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAyODQ4MTUsMTQzOTg5MTQ3MCwxNz
-c2OTI0MjAzLC0xMDkyODI5ODgwLC0xMzc2MTU2NDEzLDExODQ5
-MDI1MTAsLTExMDcxMTAyNzcsLTE5MTA3ODc0NjcsMTI5NjY3NT
-cwMywxODA5OTczMzksLTE2NTU1MzM5NzEsMTQxODIxMjIzMiw3
-NDgxNjMyNDYsNjE5Mjk0ODA2LC0xNzczMTYyMjc0LDEzMjYwNj
-I1NjUsLTExNTgxNzkxMTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5
-LDYyMzA1NjQyNV19
+eyJoaXN0b3J5IjpbMjExMDM4NzQ1MSwxNDM5ODkxNDcwLDE3Nz
+Y5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYxNTY0MTMsMTE4NDkw
+MjUxMCwtMTEwNzExMDI3NywtMTkxMDc4NzQ2NywxMjk2Njc1Nz
+AzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwxNDE4MjEyMjMyLDc0
+ODE2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNjIyNzQsMTMyNjA2Mj
+U2NSwtMTE1ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2NjM5Mzks
+NjIzMDU2NDI1XX0=
 -->
