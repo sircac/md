@@ -1,11 +1,11 @@
 
+
 #  KM3NeT Documentation Review
 
 Notes relative to the documentation for the Dark Room and Test Station procedures.
 
 ### <u>TOC</u>
 - [Useful links](#useful-links)
-- [GD Documents](#gd-documents)
 	&mdash;
 - [Test Station](#test-station)
 - [Dark Room](#dark-room)
@@ -171,11 +171,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDM4NzQ1MSwxNDM5ODkxNDcwLDE3Nz
-Y5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYxNTY0MTMsMTE4NDkw
-MjUxMCwtMTEwNzExMDI3NywtMTkxMDc4NzQ2NywxMjk2Njc1Nz
-AzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwxNDE4MjEyMjMyLDc0
-ODE2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNjIyNzQsMTMyNjA2Mj
-U2NSwtMTE1ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2NjM5Mzks
-NjIzMDU2NDI1XX0=
+eyJoaXN0b3J5IjpbNDA5ODczNjE3LDIxMTAzODc0NTEsMTQzOT
+g5MTQ3MCwxNzc2OTI0MjAzLC0xMDkyODI5ODgwLC0xMzc2MTU2
+NDEzLDExODQ5MDI1MTAsLTExMDcxMTAyNzcsLTE5MTA3ODc0Nj
+csMTI5NjY3NTcwMywxODA5OTczMzksLTE2NTU1MzM5NzEsMTQx
+ODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0ODA2LC0xNzczMTYyMj
+c0LDEzMjYwNjI1NjUsLTExNTgxNzkxMTUsMTUwNzY3MTA3OSwx
+NzUyNjYzOTM5XX0=
 -->
