@@ -26,7 +26,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 * [runs.txt](https://km3netdbweb.in2p3.fr/streamds/runs.txt?detid=D_ORCA004) for ARCA DU40 (detid not yet created!)
 * [ARCA DU40 PBS](https://km3netdbweb.in2p3.fr/product/3/DU-C-BEACON:IT/1.40)
 
-### DR2SEA
+### DR2SEA notes
 * [SCDC.pdf](http://www.ba.infn.it/agustin/cal/SCDC.pdf)
 * [DR2SEA.xlsx](http://www.ba.infn.it/agustin/cal/DR2SEA.xlsx)
 
@@ -178,11 +178,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTkwMDMzNSwyMDA4Njk0MjA2LDE4Nj
-AzODYxMjgsLTk1NTg4MDgwLC0xNTI4NzE3OTMyLDIxMTAzODc0
-NTEsMTQzOTg5MTQ3MCwxNzc2OTI0MjAzLC0xMDkyODI5ODgwLC
-0xMzc2MTU2NDEzLDExODQ5MDI1MTAsLTExMDcxMTAyNzcsLTE5
-MTA3ODc0NjcsMTI5NjY3NTcwMywxODA5OTczMzksLTE2NTU1Mz
-M5NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0ODA2LC0x
-NzczMTYyMjc0XX0=
+eyJoaXN0b3J5IjpbOTk1Mjg4ODc4LDIwMDg2OTQyMDYsMTg2MD
+M4NjEyOCwtOTU1ODgwODAsLTE1Mjg3MTc5MzIsMjExMDM4NzQ1
+MSwxNDM5ODkxNDcwLDE3NzY5MjQyMDMsLTEwOTI4Mjk4ODAsLT
+EzNzYxNTY0MTMsMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMTkx
+MDc4NzQ2NywxMjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUzMz
+k3MSwxNDE4MjEyMjMyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLTE3
+NzMxNjIyNzRdfQ==
 -->
