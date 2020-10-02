@@ -31,7 +31,7 @@ Here.
 
 ## DR2SEA requirements
 
-An schematic description of the DR2SEA can be found 
+An schematic description of the DR2SEA can be found [here](http://www.ba.infn.it/agustin/cal/SCDC.pdf) and the latest DR2SEA tabel [here](http://www.ba.infn.it/agustin/cal/DR2SEA.xlsx).
 
 
 ## Dorothea's notes
@@ -159,11 +159,11 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjkyNDIwMywtMTA5MjgyOTg4MCwtMT
-M3NjE1NjQxMywxMTg0OTAyNTEwLC0xMTA3MTEwMjc3LC0xOTEw
-Nzg3NDY3LDEyOTY2NzU3MDMsMTgwOTk3MzM5LC0xNjU1NTMzOT
-cxLDE0MTgyMTIyMzIsNzQ4MTYzMjQ2LDYxOTI5NDgwNiwtMTc3
-MzE2MjI3NCwxMzI2MDYyNTY1LC0xMTU4MTc5MTE1LDE1MDc2Nz
-EwNzksMTc1MjY2MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIs
-ODE0NTA3NDldfQ==
+eyJoaXN0b3J5IjpbMTQzOTg5MTQ3MCwxNzc2OTI0MjAzLC0xMD
+kyODI5ODgwLC0xMzc2MTU2NDEzLDExODQ5MDI1MTAsLTExMDcx
+MTAyNzcsLTE5MTA3ODc0NjcsMTI5NjY3NTcwMywxODA5OTczMz
+ksLTE2NTU1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5
+Mjk0ODA2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNz
+kxMTUsMTUwNzY3MTA3OSwxNzUyNjYzOTM5LDYyMzA1NjQyNSwt
+MTc0ODUyMjMwMl19
 -->
