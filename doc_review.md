@@ -8,12 +8,10 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 ### <u>TOC</u>
 - [Useful links](#useful-links)
 - [GD Documents](#gd-documents)
-&mdash;
-	
+	&mdash;
 - [Test Station](#test-station)
 - [Dark Room](#dark-room)
-&mdash;
-	
+	&mdash;
 - [Dorothea's notes](#dorotheas-notes)
 
 > GitHub: | [pages](https://sircac.github.io/md/doc_review.html) | [repo](https://github.com/sircac/md)
@@ -179,11 +177,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTczMzk3NzgsMTg2MDM4NjEyOCwtOT
-U1ODgwODAsLTE1Mjg3MTc5MzIsMjExMDM4NzQ1MSwxNDM5ODkx
-NDcwLDE3NzY5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYxNTY0MT
-MsMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMTkxMDc4NzQ2Nywx
-Mjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwxNDE4Mj
-EyMjMyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNjIyNzQs
-MTMyNjA2MjU2NV19
+eyJoaXN0b3J5IjpbMjAwODY5NDIwNiwxODYwMzg2MTI4LC05NT
+U4ODA4MCwtMTUyODcxNzkzMiwyMTEwMzg3NDUxLDE0Mzk4OTE0
+NzAsMTc3NjkyNDIwMywtMTA5MjgyOTg4MCwtMTM3NjE1NjQxMy
+wxMTg0OTAyNTEwLC0xMTA3MTEwMjc3LC0xOTEwNzg3NDY3LDEy
+OTY2NzU3MDMsMTgwOTk3MzM5LC0xNjU1NTMzOTcxLDE0MTgyMT
+IyMzIsNzQ4MTYzMjQ2LDYxOTI5NDgwNiwtMTc3MzE2MjI3NCwx
+MzI2MDYyNTY1XX0=
 -->
