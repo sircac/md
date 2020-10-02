@@ -29,6 +29,10 @@ Here.
 
 Here.
 
+## DR2SEA requirements
+
+An schematic description of the DR2SEA can be found 
+
 
 ## Dorothea's notes
 
@@ -155,7 +159,7 @@ It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/fo
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzQ0NjY1MiwtMTA5MjgyOTg4MCwtMT
+eyJoaXN0b3J5IjpbMTc3NjkyNDIwMywtMTA5MjgyOTg4MCwtMT
 M3NjE1NjQxMywxMTg0OTAyNTEwLC0xMTA3MTEwMjc3LC0xOTEw
 Nzg3NDY3LDEyOTY2NzU3MDMsMTgwOTk3MzM5LC0xNjU1NTMzOT
 cxLDE0MTgyMTIyMzIsNzQ4MTYzMjQ2LDYxOTI5NDgwNiwtMTc3
