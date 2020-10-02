@@ -21,7 +21,7 @@ Notes relative to the documentation for the Dark Room and Test Station procedure
 ### DB
 * [DB web](http://km3netdbweb.in2p3.fr)
 * [detectors.txt](https://km3netdbweb.in2p3.fr/streamds/detectors.txt)
-* [runs.txt](https://km3netdbweb.in2p3.fr/streamds/runs.txt?detid=D_ORCA004)
+* [runs.txt](https://km3netdbweb.in2p3.fr/streamds/runs.txt?detid=D_ORCA004)Here
 
 ### DR2SEA
 * [SCDC.pdf](http://www.ba.infn.it/agustin/cal/SCDC.pdf)
@@ -85,6 +85,8 @@ Here.
 ##  Dark Room
 
 Here.
+
+* Where is it the DB detid creation step
 
 ### GD documentation
 
@@ -173,11 +175,11 @@ Here.
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg3MTc5MzIsMjExMDM4NzQ1MSwxND
-M5ODkxNDcwLDE3NzY5MjQyMDMsLTEwOTI4Mjk4ODAsLTEzNzYx
-NTY0MTMsMTE4NDkwMjUxMCwtMTEwNzExMDI3NywtMTkxMDc4Nz
-Q2NywxMjk2Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwx
-NDE4MjEyMjMyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNj
-IyNzQsMTMyNjA2MjU2NSwtMTE1ODE3OTExNSwxNTA3NjcxMDc5
-LDE3NTI2NjM5MzldfQ==
+eyJoaXN0b3J5IjpbODE2NzUyOTA2LC0xNTI4NzE3OTMyLDIxMT
+AzODc0NTEsMTQzOTg5MTQ3MCwxNzc2OTI0MjAzLC0xMDkyODI5
+ODgwLC0xMzc2MTU2NDEzLDExODQ5MDI1MTAsLTExMDcxMTAyNz
+csLTE5MTA3ODc0NjcsMTI5NjY3NTcwMywxODA5OTczMzksLTE2
+NTU1MzM5NzEsMTQxODIxMjIzMiw3NDgxNjMyNDYsNjE5Mjk0OD
+A2LC0xNzczMTYyMjc0LDEzMjYwNjI1NjUsLTExNTgxNzkxMTUs
+MTUwNzY3MTA3OV19
 -->
