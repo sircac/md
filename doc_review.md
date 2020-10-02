@@ -149,17 +149,17 @@ Some of the most relevant documents on GD:
 * [KM3NeT_CALIB_2018_007_ATRIUM-323371_v6-LNS_DU_Calibration_DR](https://drive.google.com/file/d/18IBvPSpE4sCmt-Ui1y3Yl0Y2hFsmZhb9/view) [PDF]
 * [ATRIUM-316801-PHASE B_Installation_of_DOMs_in_dark_room](https://drive.google.com/file/d/1JVzFUMYRMdKsbeiKC-RYiAZSjqLzi2cx/view) [DOCX] [French]
 
-It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar) content:
+It seems this [Process 3 - DU Calibration](https://drive.google.com/drive/u/1/folders/15o8tW_P_sp5O3zsI-adJymhYlqqwYhBn) GD folder is not part of KM3NeT GD and even host a document with the same identifier as one in KM3NeT with clearly different (despite similar theme related) content:
 * [KM3NeT_CALIB_2018_007-DU_Test_and_Calibration_v5](https://drive.google.com/file/d/1st4_wax7nuVBxVamRxYC1LnYRGEiLilJ/view) [PDF]
 * [KM3NeT_CALIB_2018\_007-LNS_DU_Calibation-v5](https://drive.google.com/file/d/1AhDaqbPptoo_-INh4exh9YSiFhmLFXuz/view) [DOCX]
 
 <hr>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI4Mjk4ODAsLTEzNzYxNTY0MTMsMT
-E4NDkwMjUxMCwtMTEwNzExMDI3NywtMTkxMDc4NzQ2NywxMjk2
-Njc1NzAzLDE4MDk5NzMzOSwtMTY1NTUzMzk3MSwxNDE4MjEyMj
-MyLDc0ODE2MzI0Niw2MTkyOTQ4MDYsLTE3NzMxNjIyNzQsMTMy
-NjA2MjU2NSwtMTE1ODE3OTExNSwxNTA3NjcxMDc5LDE3NTI2Nj
-M5MzksNjIzMDU2NDI1LC0xNzQ4NTIyMzAyLDgxNDUwNzQ5LC0x
-NzU1ODI2MjM4XX0=
+eyJoaXN0b3J5IjpbMTYzMzQ0NjY1MiwtMTA5MjgyOTg4MCwtMT
+M3NjE1NjQxMywxMTg0OTAyNTEwLC0xMTA3MTEwMjc3LC0xOTEw
+Nzg3NDY3LDEyOTY2NzU3MDMsMTgwOTk3MzM5LC0xNjU1NTMzOT
+cxLDE0MTgyMTIyMzIsNzQ4MTYzMjQ2LDYxOTI5NDgwNiwtMTc3
+MzE2MjI3NCwxMzI2MDYyNTY1LC0xMTU4MTc5MTE1LDE1MDc2Nz
+EwNzksMTc1MjY2MzkzOSw2MjMwNTY0MjUsLTE3NDg1MjIzMDIs
+ODE0NTA3NDldfQ==
 -->
